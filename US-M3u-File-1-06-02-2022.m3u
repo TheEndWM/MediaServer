@@ -1,493 +1,493 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TBS.us" tvg-name="..TBS EAST HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/tbs_east.png" group-title="ENGLISH-USA",..TBS EAST HD
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="..TBS EAST HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/tbs_east.png" group-title="ENGLISH-USA",TBS EAST HD
 http://38.143.137.105:8080/Greene/Greene/15527
-#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="..CNN HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cnn-international-us.png" group-title="ENGLISH-USA",..CNN HD
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="..CNN HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cnn-international-us.png" group-title="ENGLISH-USA",CNN HD
 http://38.143.137.105:8080/Greene/Greene/7986
-#EXTINF:-1 tvg-id="FoxLife.pt" tvg-name="..FOX LIFE HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082015/fox-life_0.png" group-title="ENGLISH-USA",..FOX LIFE HD
+#EXTINF:-1 tvg-id="FoxLife.pt" tvg-name="..FOX LIFE HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082015/fox-life_0.png" group-title="ENGLISH-USA",FOX LIFE HD
 http://38.143.137.105:8080/Greene/Greene/4975
-#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="..FOX NEWS  HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_news_channel.png" group-title="ENGLISH-USA",..FOX NEWS  HD
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="..FOX NEWS  HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_news_channel.png" group-title="ENGLISH-USA",FOX NEWS  HD
 http://38.143.137.105:8080/Greene/Greene/7888
-#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="..FOX BUSINESS HD" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/IpB/IpB_large.png" group-title="ENGLISH-USA",..FOX BUSINESS HD
+#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="..FOX BUSINESS HD" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/IpB/IpB_large.png" group-title="ENGLISH-USA",FOX BUSINESS HD
 http://38.143.137.105:8080/Greene/Greene/7984
-#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="..BLOOMBERG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bloomberg_News_logo.png/220px-Bloomberg_News_logo.png" group-title="ENGLISH-USA",..BLOOMBERG HD
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="..BLOOMBERG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bloomberg_News_logo.png/220px-Bloomberg_News_logo.png" group-title="ENGLISH-USA",BLOOMBERG HD
 http://38.143.137.105:8080/Greene/Greene/7904
-#EXTINF:-1 tvg-id="BusinessNewsNetworkBloomberg.ca" tvg-name="..BNN HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/bnn-bloomberg-ca.png" group-title="ENGLISH-USA",..BNN HD
+#EXTINF:-1 tvg-id="BusinessNewsNetworkBloomberg.ca" tvg-name="..BNN HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/bnn-bloomberg-ca.png" group-title="ENGLISH-USA",BNN HD
 http://38.143.137.105:8080/Greene/Greene/5033
-#EXTINF:-1 tvg-id="CNBC.us" tvg-name="..CNBC HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cnbc_us.png" group-title="ENGLISH-USA",..CNBC HD
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="..CNBC HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cnbc_us.png" group-title="ENGLISH-USA",CNBC HD
 http://38.143.137.105:8080/Greene/Greene/7872
-#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="..MSNBC HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/msnbc_us.png" group-title="ENGLISH-USA",..MSNBC HD
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="..MSNBC HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/msnbc_us.png" group-title="ENGLISH-USA",MSNBC HD
 http://38.143.137.105:8080/Greene/Greene/7924
-#EXTINF:-1 tvg-id="ABCWABC.us" tvg-name="..ABC NEWS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",..ABC NEWS HD
+#EXTINF:-1 tvg-id="ABCWABC.us" tvg-name="..ABC NEWS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",ABC NEWS HD
 http://38.143.137.105:8080/Greene/Greene/7912
-#EXTINF:-1 tvg-id="CBSWCBS.us" tvg-name="..CBS NEWS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs_news.png" group-title="ENGLISH-USA",..CBS NEWS HD
+#EXTINF:-1 tvg-id="CBSWCBS.us" tvg-name="..CBS NEWS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs_news.png" group-title="ENGLISH-USA",CBS NEWS HD
 http://38.143.137.105:8080/Greene/Greene/7987
-#EXTINF:-1 tvg-id="France24.fr" tvg-name="..FRANCE 24 ENGLISH" tvg-logo="http://38.143.137.20/logo/prestige/France/france24_fr.png" group-title="ENGLISH-USA",..FRANCE 24 ENGLISH
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="..FRANCE 24 ENGLISH" tvg-logo="http://38.143.137.20/logo/prestige/France/france24_fr.png" group-title="ENGLISH-USA",FRANCE 24 ENGLISH
 http://38.143.137.105:8080/Greene/Greene/338436
-#EXTINF:-1 tvg-id="BBCWorld.ca" tvg-name="..BBC WORLD NEWS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/bbc_america_east.png" group-title="ENGLISH-USA",..BBC WORLD NEWS HD
+#EXTINF:-1 tvg-id="BBCWorld.ca" tvg-name="..BBC WORLD NEWS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/bbc_america_east.png" group-title="ENGLISH-USA",BBC WORLD NEWS HD
 http://38.143.137.105:8080/Greene/Greene/342101
-#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="..BBC AMERICA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/bbc_america_east.png" group-title="ENGLISH-USA",..BBC AMERICA HD
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="..BBC AMERICA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/bbc_america_east.png" group-title="ENGLISH-USA",BBC AMERICA HD
 http://38.143.137.105:8080/Greene/Greene/30418
-#EXTINF:-1 tvg-id="10TV.in" tvg-name="..DW NEWS HD" tvg-logo="http://38.143.137.20/logo/prestige/Germany/deutsche_welle_tv_de.png" group-title="ENGLISH-USA",..DW NEWS HD
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="..DW NEWS HD" tvg-logo="http://38.143.137.20/logo/prestige/Germany/deutsche_welle_tv_de.png" group-title="ENGLISH-USA",DW NEWS HD
 http://38.143.137.105:8080/Greene/Greene/69469
-#EXTINF:-1 tvg-id="10TV.in" tvg-name="..CGTN ENGLISH HD" tvg-logo="http://38.143.137.20/logo/prestige/China/cgtn_cn_america.png" group-title="ENGLISH-USA",..CGTN ENGLISH HD
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="..CGTN ENGLISH HD" tvg-logo="http://38.143.137.20/logo/prestige/China/cgtn_cn_america.png" group-title="ENGLISH-USA",CGTN ENGLISH HD
 http://38.143.137.105:8080/Greene/Greene/186943
-#EXTINF:-1 tvg-id="CGTNDocu.cn" tvg-name="..CGTN DOCUMENTARY HD" tvg-logo="http://38.143.137.20/logo/prestige/China/cgtn_cn_documentary.png" group-title="ENGLISH-USA",..CGTN DOCUMENTARY HD
+#EXTINF:-1 tvg-id="CGTNDocu.cn" tvg-name="..CGTN DOCUMENTARY HD" tvg-logo="http://38.143.137.20/logo/prestige/China/cgtn_cn_documentary.png" group-title="ENGLISH-USA",CGTN DOCUMENTARY HD
 http://38.143.137.105:8080/Greene/Greene/148954
-#EXTINF:-1 tvg-id="RTUS.ru" tvg-name="..RT AMERICA HD" tvg-logo="http://38.143.137.20/logo/prestige/Russia/rt_ru_america.png" group-title="ENGLISH-USA",..RT AMERICA HD
+#EXTINF:-1 tvg-id="RTUS.ru" tvg-name="..RT AMERICA HD" tvg-logo="http://38.143.137.20/logo/prestige/Russia/rt_ru_america.png" group-title="ENGLISH-USA",RT AMERICA HD
 http://38.143.137.105:8080/Greene/Greene/53248
-#EXTINF:-1 tvg-id="10TV.in" tvg-name="..RT DOCUMENTARY" tvg-logo="http://38.143.137.20/logo/prestige/Russia/rt_doc_ru.png" group-title="ENGLISH-USA",..RT DOCUMENTARY
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="..RT DOCUMENTARY" tvg-logo="http://38.143.137.20/logo/prestige/Russia/rt_doc_ru.png" group-title="ENGLISH-USA",RT DOCUMENTARY
 http://38.143.137.105:8080/Greene/Greene/148953
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.uk" tvg-name="..AL JAZEERA NEWS ENGLISH" tvg-logo="http://38.143.137.20/logo/prestige/Algeria/ALJAZEERA.png" group-title="ENGLISH-USA",..AL JAZEERA NEWS ENGLISH
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.uk" tvg-name="..AL JAZEERA NEWS ENGLISH" tvg-logo="http://38.143.137.20/logo/prestige/Algeria/ALJAZEERA.png" group-title="ENGLISH-USA",AL JAZEERA NEWS ENGLISH
 http://38.143.137.105:8080/Greene/Greene/52970
-#EXTINF:-1 tvg-id="My9WWOR.us" tvg-name="..MY9 NEW YORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/my-destination-tv-us.png" group-title="ENGLISH-USA",..MY9 NEW YORK HD
+#EXTINF:-1 tvg-id="My9WWOR.us" tvg-name="..MY9 NEW YORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/my-destination-tv-us.png" group-title="ENGLISH-USA",MY9 NEW YORK HD
 http://38.143.137.105:8080/Greene/Greene/334094
-#EXTINF:-1 tvg-id="" tvg-name="..NEWS 12 HD  (BRONX)" tvg-logo="http://38.143.137.20/logo/prestige/United-States/news12.png" group-title="ENGLISH-USA",..NEWS 12 HD  (BRONX)
+#EXTINF:-1 tvg-id="" tvg-name="..NEWS 12 HD  (BRONX)" tvg-logo="http://38.143.137.20/logo/prestige/United-States/news12.png" group-title="ENGLISH-USA",NEWS 12 HD  (BRONX)
 http://38.143.137.105:8080/Greene/Greene/330795
-#EXTINF:-1 tvg-id="" tvg-name="..NEWS 12 HD (BROOKLYN)" tvg-logo="http://38.143.137.20/logo/prestige/United-States/news12.png" group-title="ENGLISH-USA",..NEWS 12 HD (BROOKLYN)
+#EXTINF:-1 tvg-id="" tvg-name="..NEWS 12 HD (BROOKLYN)" tvg-logo="http://38.143.137.20/logo/prestige/United-States/news12.png" group-title="ENGLISH-USA",NEWS 12 HD (BROOKLYN)
 http://38.143.137.105:8080/Greene/Greene/330794
-#EXTINF:-1 tvg-id="News12LongIsland.us" tvg-name="..NEWS 12 HD  (LONG ISLAND)" tvg-logo="http://38.143.137.20/logo/prestige/United-States/news12.png" group-title="ENGLISH-USA",..NEWS 12 HD  (LONG ISLAND)
+#EXTINF:-1 tvg-id="News12LongIsland.us" tvg-name="..NEWS 12 HD  (LONG ISLAND)" tvg-logo="http://38.143.137.20/logo/prestige/United-States/news12.png" group-title="ENGLISH-USA",NEWS 12 HD  (LONG ISLAND)
 http://38.143.137.105:8080/Greene/Greene/330796
-#EXTINF:-1 tvg-id="NBCKNSD.us" tvg-name="..NBCSN WASHINGTON PLUS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbcsn-us.png" group-title="ENGLISH-USA",..NBCSN WASHINGTON PLUS HD
+#EXTINF:-1 tvg-id="NBCKNSD.us" tvg-name="..NBCSN WASHINGTON PLUS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbcsn-us.png" group-title="ENGLISH-USA",NBCSN WASHINGTON PLUS HD
 http://38.143.137.105:8080/Greene/Greene/148172
-#EXTINF:-1 tvg-id="Logo.us" tvg-name="..LOGO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/logo_us_east.png" group-title="ENGLISH-USA",..LOGO HD
+#EXTINF:-1 tvg-id="Logo.us" tvg-name="..LOGO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/logo_us_east.png" group-title="ENGLISH-USA",LOGO HD
 http://38.143.137.105:8080/Greene/Greene/334088
-#EXTINF:-1 tvg-id="HGTV.us" tvg-name="..HGTV US" tvg-logo="http://38.143.137.20/logo/prestige/United-States/hgtv_us.png" group-title="ENGLISH-USA",..HGTV US
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="..HGTV US" tvg-logo="http://38.143.137.20/logo/prestige/United-States/hgtv_us.png" group-title="ENGLISH-USA",HGTV US
 http://38.143.137.105:8080/Greene/Greene/7917
-#EXTINF:-1 tvg-id="TCM.uk" tvg-name="..TCM HD UK" tvg-logo="http://38.143.137.20/logo/prestige/United-States/tcm-cinema-us-fr.png" group-title="ENGLISH-USA",..TCM HD UK
+#EXTINF:-1 tvg-id="TCM.uk" tvg-name="..TCM HD UK" tvg-logo="http://38.143.137.20/logo/prestige/United-States/tcm-cinema-us-fr.png" group-title="ENGLISH-USA",TCM HD UK
 http://38.143.137.105:8080/Greene/Greene/15389
-#EXTINF:-1 tvg-id="BET.us" tvg-name="..BET HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/bet-us.png" group-title="ENGLISH-USA",..BET HD
+#EXTINF:-1 tvg-id="BET.us" tvg-name="..BET HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/bet-us.png" group-title="ENGLISH-USA",BET HD
 http://38.143.137.105:8080/Greene/Greene/148881
-#EXTINF:-1 tvg-id="BetHer.us" tvg-name="..BET HER" tvg-logo="http://38.143.137.20/logo/prestige/United-States/bet-her-us.png" group-title="ENGLISH-USA",..BET HER
+#EXTINF:-1 tvg-id="BetHer.us" tvg-name="..BET HER" tvg-logo="http://38.143.137.20/logo/prestige/United-States/bet-her-us.png" group-title="ENGLISH-USA",BET HER
 http://38.143.137.105:8080/Greene/Greene/7870
-#EXTINF:-1 tvg-id="BETSoul.us" tvg-name="..BET SOUL HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_soul.png" group-title="ENGLISH-USA",..BET SOUL HD
+#EXTINF:-1 tvg-id="BETSoul.us" tvg-name="..BET SOUL HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_soul.png" group-title="ENGLISH-USA",BET SOUL HD
 http://38.143.137.105:8080/Greene/Greene/395573
-#EXTINF:-1 tvg-id="BETjams.us" tvg-name="..BET JAMS HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_jams.png" group-title="ENGLISH-USA",..BET JAMS HD
+#EXTINF:-1 tvg-id="BETjams.us" tvg-name="..BET JAMS HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_jams.png" group-title="ENGLISH-USA",BET JAMS HD
 http://38.143.137.105:8080/Greene/Greene/395568
-#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="..FOOD NETWORK HD " tvg-logo="http://38.143.137.20/logo/prestige/United-States/food-network-uk.png" group-title="ENGLISH-USA",..FOOD NETWORK HD 
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="..FOOD NETWORK HD " tvg-logo="http://38.143.137.20/logo/prestige/United-States/food-network-uk.png" group-title="ENGLISH-USA",FOOD NETWORK HD 
 http://38.143.137.105:8080/Greene/Greene/387285
-#EXTINF:-1 tvg-id="CWCentralPAWHP.us" tvg-name="..CW (CENTRAL PA) HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/the_cw_plus_us.png" group-title="ENGLISH-USA",..CW (CENTRAL PA) HD
+#EXTINF:-1 tvg-id="CWCentralPAWHP.us" tvg-name="..CW (CENTRAL PA) HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/the_cw_plus_us.png" group-title="ENGLISH-USA",CW (CENTRAL PA) HD
 http://38.143.137.105:8080/Greene/Greene/7906
-#EXTINF:-1 tvg-id="CWKVCW.us" tvg-name="..CW KTLA 5 HD (LA)" tvg-logo="http://38.143.137.20/logo/prestige/United-States/ktla5.png" group-title="ENGLISH-USA",..CW KTLA 5 HD (LA)
+#EXTINF:-1 tvg-id="CWKVCW.us" tvg-name="..CW KTLA 5 HD (LA)" tvg-logo="http://38.143.137.20/logo/prestige/United-States/ktla5.png" group-title="ENGLISH-USA",CW KTLA 5 HD (LA)
 http://38.143.137.105:8080/Greene/Greene/414144
-#EXTINF:-1 tvg-id="WMYT.us" tvg-name="..PBS HD (Buffalo)" tvg-logo="http://38.143.137.20/logo/prestige/United-States/pbs-us.png" group-title="ENGLISH-USA",..PBS HD (Buffalo)
+#EXTINF:-1 tvg-id="WMYT.us" tvg-name="..PBS HD (Buffalo)" tvg-logo="http://38.143.137.20/logo/prestige/United-States/pbs-us.png" group-title="ENGLISH-USA",PBS HD (Buffalo)
 http://38.143.137.105:8080/Greene/Greene/150389
-#EXTINF:-1 tvg-id="FX.us" tvg-name="..FX HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fx_us.png" group-title="ENGLISH-USA",..FX HD
+#EXTINF:-1 tvg-id="FX.us" tvg-name="..FX HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fx_us.png" group-title="ENGLISH-USA",FX HD
 http://38.143.137.105:8080/Greene/Greene/7859
-#EXTINF:-1 tvg-id="FXX.us" tvg-name="..FXX HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fxx_east.png" group-title="ENGLISH-USA",..FXX HD
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="..FXX HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fxx_east.png" group-title="ENGLISH-USA",FXX HD
 http://38.143.137.105:8080/Greene/Greene/7886
-#EXTINF:-1 tvg-id="OprahWinfreyNetwork.us" tvg-name="..OWN US" tvg-logo="http://38.143.137.20/logo/prestige/Canada/oprah-winfrey-network-canada-us-ca.png" group-title="ENGLISH-USA",..OWN US
+#EXTINF:-1 tvg-id="OprahWinfreyNetwork.us" tvg-name="..OWN US" tvg-logo="http://38.143.137.20/logo/prestige/Canada/oprah-winfrey-network-canada-us-ca.png" group-title="ENGLISH-USA",OWN US
 http://38.143.137.105:8080/Greene/Greene/31010
-#EXTINF:-1 tvg-id="VH1.us" tvg-name="..VH1" tvg-logo="http://38.143.137.20/logo/prestige/United-States/vh1_global.png" group-title="ENGLISH-USA",..VH1
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="..VH1" tvg-logo="http://38.143.137.20/logo/prestige/United-States/vh1_global.png" group-title="ENGLISH-USA",VH1
 http://38.143.137.105:8080/Greene/Greene/52962
-#EXTINF:-1 tvg-id="WomensEntertainment.us" tvg-name="..WE TV HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/we_tv_us.png" group-title="ENGLISH-USA",..WE TV HD
+#EXTINF:-1 tvg-id="WomensEntertainment.us" tvg-name="..WE TV HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/we_tv_us.png" group-title="ENGLISH-USA",WE TV HD
 http://38.143.137.105:8080/Greene/Greene/52961
-#EXTINF:-1 tvg-id="TVLandEast.us" tvg-name="..TV LAND" tvg-logo="http://38.143.137.20/logo/prestige/United-States/tv_land_west.png" group-title="ENGLISH-USA",..TV LAND
+#EXTINF:-1 tvg-id="TVLandEast.us" tvg-name="..TV LAND" tvg-logo="http://38.143.137.20/logo/prestige/United-States/tv_land_west.png" group-title="ENGLISH-USA",TV LAND
 http://38.143.137.105:8080/Greene/Greene/52963
-#EXTINF:-1 tvg-id="TVOne.us" tvg-name="..TV ONE HD US" tvg-logo="http://38.143.137.20/logo/prestige/United-States/tv_one_us.png" group-title="ENGLISH-USA",..TV ONE HD US
+#EXTINF:-1 tvg-id="TVOne.us" tvg-name="..TV ONE HD US" tvg-logo="http://38.143.137.20/logo/prestige/United-States/tv_one_us.png" group-title="ENGLISH-USA",TV ONE HD US
 http://38.143.137.105:8080/Greene/Greene/154601
-#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="..OXYGEN WEST HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/oxygen_tv_us_east.png" group-title="ENGLISH-USA",..OXYGEN WEST HD
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="..OXYGEN WEST HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/oxygen_tv_us_east.png" group-title="ENGLISH-USA",OXYGEN WEST HD
 http://38.143.137.105:8080/Greene/Greene/164972
-#EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="..HALLMARK DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Hallmark_Drama_Logo.png" group-title="ENGLISH-USA",..HALLMARK DRAMA
+#EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="..HALLMARK DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Hallmark_Drama_Logo.png" group-title="ENGLISH-USA",HALLMARK DRAMA
 http://38.143.137.105:8080/Greene/Greene/52973
-#EXTINF:-1 tvg-id="Hallmark.us" tvg-name="..HALLMARK CHANNEL HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_246.png" group-title="ENGLISH-USA",..HALLMARK CHANNEL HD
+#EXTINF:-1 tvg-id="Hallmark.us" tvg-name="..HALLMARK CHANNEL HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_246.png" group-title="ENGLISH-USA",HALLMARK CHANNEL HD
 http://38.143.137.105:8080/Greene/Greene/7857
-#EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us" tvg-name="..HALLMARK MOVIES & MYSTERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hallmark_movies_mysteries.png/440px-Hallmark_movies_mysteries.png" group-title="ENGLISH-USA",..HALLMARK MOVIES & MYSTERIES
+#EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us" tvg-name="..HALLMARK MOVIES & MYSTERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hallmark_movies_mysteries.png/440px-Hallmark_movies_mysteries.png" group-title="ENGLISH-USA",HALLMARK MOVIES & MYSTERIES
 http://38.143.137.105:8080/Greene/Greene/52974
-#EXTINF:-1 tvg-id="QVC.us" tvg-name="..PARAMOUNT NETWORK HD" tvg-logo="http://glmtv.pw/logo/prestige/Canada/paramount-network-us.png" group-title="ENGLISH-USA",..PARAMOUNT NETWORK HD
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="..PARAMOUNT NETWORK HD" tvg-logo="http://glmtv.pw/logo/prestige/Canada/paramount-network-us.png" group-title="ENGLISH-USA",PARAMOUNT NETWORK HD
 http://38.143.137.105:8080/Greene/Greene/165768
-#EXTINF:-1 tvg-id="INDIEplex.us" tvg-name="..IFC HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/032018/untitled-1_417.png" group-title="ENGLISH-USA",..IFC HD
+#EXTINF:-1 tvg-id="INDIEplex.us" tvg-name="..IFC HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/032018/untitled-1_417.png" group-title="ENGLISH-USA",IFC HD
 http://38.143.137.105:8080/Greene/Greene/7851
-#EXTINF:-1 tvg-id="Revolt.us" tvg-name="..REVOLT HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/revolt_tv_us.png" group-title="ENGLISH-USA",..REVOLT HD
+#EXTINF:-1 tvg-id="Revolt.us" tvg-name="..REVOLT HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/revolt_tv_us.png" group-title="ENGLISH-USA",REVOLT HD
 http://38.143.137.105:8080/Greene/Greene/7847
-#EXTINF:-1 tvg-id="AMC.us" tvg-name="..AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Amc_theatres_logo.svg/200px-Amc_theatres_logo.svg.png" group-title="ENGLISH-USA",..AMC HD
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="..AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Amc_theatres_logo.svg/200px-Amc_theatres_logo.svg.png" group-title="ENGLISH-USA",AMC HD
 http://38.143.137.105:8080/Greene/Greene/5037
-#EXTINF:-1 tvg-id="Bravo.us" tvg-name="..BRAVO HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/022011/bravo_tv.png" group-title="ENGLISH-USA",..BRAVO HD
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="..BRAVO HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/022011/bravo_tv.png" group-title="ENGLISH-USA",BRAVO HD
 http://38.143.137.105:8080/Greene/Greene/5032
-#EXTINF:-1 tvg-id="LifetimeNetwork.us" tvg-name="..LIFETIME HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/lifetime-us.png" group-title="ENGLISH-USA",..LIFETIME HD
+#EXTINF:-1 tvg-id="LifetimeNetwork.us" tvg-name="..LIFETIME HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/lifetime-us.png" group-title="ENGLISH-USA",LIFETIME HD
 http://38.143.137.105:8080/Greene/Greene/7849
-#EXTINF:-1 tvg-id="Spike.uk" tvg-name="..SPIKE HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/spike_tv_us.png" group-title="ENGLISH-USA",..SPIKE HD
+#EXTINF:-1 tvg-id="Spike.uk" tvg-name="..SPIKE HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/spike_tv_us.png" group-title="ENGLISH-USA",SPIKE HD
 http://38.143.137.105:8080/Greene/Greene/7878
-#EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="..HISTORY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/07/History_channel_us.png/200px-History_channel_us.png" group-title="ENGLISH-USA",..HISTORY CHANNEL HD
+#EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="..HISTORY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/07/History_channel_us.png/200px-History_channel_us.png" group-title="ENGLISH-USA",HISTORY CHANNEL HD
 http://38.143.137.105:8080/Greene/Greene/7852
-#EXTINF:-1 tvg-id="GameShowNetwork.us" tvg-name="..GAME SHOW NETWORK (GSN) | HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/game-show-network-us.png" group-title="ENGLISH-USA",..GAME SHOW NETWORK (GSN) | HD
+#EXTINF:-1 tvg-id="GameShowNetwork.us" tvg-name="..GAME SHOW NETWORK (GSN) | HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/game-show-network-us.png" group-title="ENGLISH-USA",GAME SHOW NETWORK (GSN) | HD
 http://38.143.137.105:8080/Greene/Greene/7858
-#EXTINF:-1 tvg-id="DiscoveryLife.us" tvg-name="..DISCOVERY LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/InvestigationDiscovery.png/200px-InvestigationDiscovery.png" group-title="ENGLISH-USA",..DISCOVERY LIFE
+#EXTINF:-1 tvg-id="DiscoveryLife.us" tvg-name="..DISCOVERY LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/InvestigationDiscovery.png/200px-InvestigationDiscovery.png" group-title="ENGLISH-USA",DISCOVERY LIFE
 http://38.143.137.105:8080/Greene/Greene/52965
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="..DISCOVERY CHANNEL HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/discovery-channel-east-us.png" group-title="ENGLISH-USA",..DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="..DISCOVERY CHANNEL HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/discovery-channel-east-us.png" group-title="ENGLISH-USA",DISCOVERY CHANNEL HD
 http://38.143.137.105:8080/Greene/Greene/7889
-#EXTINF:-1 tvg-id="DiscoveryScience.ca" tvg-name="..DISCOVERY SCIENCE HD *" tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png" group-title="ENGLISH-USA",..DISCOVERY SCIENCE HD *
+#EXTINF:-1 tvg-id="DiscoveryScience.ca" tvg-name="..DISCOVERY SCIENCE HD *" tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png" group-title="ENGLISH-USA",DISCOVERY SCIENCE HD *
 http://38.143.137.105:8080/Greene/Greene/7907
-#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="..INVESTIGATION DISCOVERY *" tvg-logo="http://38.143.137.20/logo/prestige/United-States/investigation_discovery_xtra.png" group-title="ENGLISH-USA",..INVESTIGATION DISCOVERY *
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="..INVESTIGATION DISCOVERY *" tvg-logo="http://38.143.137.20/logo/prestige/United-States/investigation_discovery_xtra.png" group-title="ENGLISH-USA",INVESTIGATION DISCOVERY *
 http://38.143.137.105:8080/Greene/Greene/7848
-#EXTINF:-1 tvg-id="DiscoveryVelocity.ca" tvg-name="..MOTOR TREND HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/ID_Canada_Logo.png" group-title="ENGLISH-USA",..MOTOR TREND HD
+#EXTINF:-1 tvg-id="DiscoveryVelocity.ca" tvg-name="..MOTOR TREND HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/ID_Canada_Logo.png" group-title="ENGLISH-USA",MOTOR TREND HD
 http://38.143.137.105:8080/Greene/Greene/7850
-#EXTINF:-1 tvg-id="AdultSwim.ca" tvg-name="..ADULT SWIM HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/adult-swim-ca.png" group-title="ENGLISH-USA",..ADULT SWIM HD
+#EXTINF:-1 tvg-id="AdultSwim.ca" tvg-name="..ADULT SWIM HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/adult-swim-ca.png" group-title="ENGLISH-USA",ADULT SWIM HD
 http://38.143.137.105:8080/Greene/Greene/390887
-#EXTINF:-1 tvg-id="SportsmanChannel.us" tvg-name="..SPORTSMAN CHANNEL" tvg-logo="http://glmtv.pw/logo/prestige/United-States/sportsman-channel-canada-us-ca.png" group-title="ENGLISH-USA",..SPORTSMAN CHANNEL
+#EXTINF:-1 tvg-id="SportsmanChannel.us" tvg-name="..SPORTSMAN CHANNEL" tvg-logo="http://glmtv.pw/logo/prestige/United-States/sportsman-channel-canada-us-ca.png" group-title="ENGLISH-USA",SPORTSMAN CHANNEL
 http://38.143.137.105:8080/Greene/Greene/392654
-#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="..OUTDOOR CHANNEL" tvg-logo="http://glmtv.pw/logo/prestige/United-States/outdoor-channel-us.png" group-title="ENGLISH-USA",..OUTDOOR CHANNEL
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="..OUTDOOR CHANNEL" tvg-logo="http://glmtv.pw/logo/prestige/United-States/outdoor-channel-us.png" group-title="ENGLISH-USA",OUTDOOR CHANNEL
 http://38.143.137.105:8080/Greene/Greene/392655
-#EXTINF:-1 tvg-id="AspireTV.us" tvg-name="..ASPIRE TV HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/aspire-tv-us.png" group-title="ENGLISH-USA",..ASPIRE TV HD
+#EXTINF:-1 tvg-id="AspireTV.us" tvg-name="..ASPIRE TV HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/aspire-tv-us.png" group-title="ENGLISH-USA",ASPIRE TV HD
 http://38.143.137.105:8080/Greene/Greene/395567
-#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="..BOUNCE TV HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bounce-us.png" group-title="ENGLISH-USA",..BOUNCE TV HD
+#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="..BOUNCE TV HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bounce-us.png" group-title="ENGLISH-USA",BOUNCE TV HD
 http://38.143.137.105:8080/Greene/Greene/395569
-#EXTINF:-1 tvg-id="UpliftingEntertainment.us" tvg-name="..UPTV HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/up-tv-us.png" group-title="ENGLISH-USA",..UPTV HD
+#EXTINF:-1 tvg-id="UpliftingEntertainment.us" tvg-name="..UPTV HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/up-tv-us.png" group-title="ENGLISH-USA",UPTV HD
 http://38.143.137.105:8080/Greene/Greene/395570
-#EXTINF:-1 tvg-id="EPIX.us" tvg-name="..EPIX HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/epix-us.png" group-title="ENGLISH-USA",..EPIX HD
+#EXTINF:-1 tvg-id="EPIX.us" tvg-name="..EPIX HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/epix-us.png" group-title="ENGLISH-USA",EPIX HD
 http://38.143.137.105:8080/Greene/Greene/395571
-#EXTINF:-1 tvg-id="EPIXHits.us" tvg-name="..EPIX HITS HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/epix-hits-us.png" group-title="ENGLISH-USA",..EPIX HITS HD
+#EXTINF:-1 tvg-id="EPIXHits.us" tvg-name="..EPIX HITS HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/epix-hits-us.png" group-title="ENGLISH-USA",EPIX HITS HD
 http://38.143.137.105:8080/Greene/Greene/395572
-#EXTINF:-1 tvg-id="OneAmericaNews.us" tvg-name="..OAN  (One America News )" tvg-logo="http://glmtv.pw/logo/prestige/United-States/one-america-news-network-us.png" group-title="ENGLISH-USA",..OAN  (One America News )
+#EXTINF:-1 tvg-id="OneAmericaNews.us" tvg-name="..OAN  (One America News )" tvg-logo="http://glmtv.pw/logo/prestige/United-States/one-america-news-network-us.png" group-title="ENGLISH-USA",OAN  (One America News )
 http://38.143.137.105:8080/Greene/Greene/399090
-#EXTINF:-1 tvg-id="" tvg-name="..GRIT TV HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/grit_tv_us.png" group-title="ENGLISH-USA",..GRIT TV HD
+#EXTINF:-1 tvg-id="" tvg-name="..GRIT TV HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/grit_tv_us.png" group-title="ENGLISH-USA",GRIT TV HD
 http://38.143.137.105:8080/Greene/Greene/403675
-#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="..REELZ HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/reelz_tv_us.png" group-title="ENGLISH-USA",..REELZ HD
+#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="..REELZ HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/reelz_tv_us.png" group-title="ENGLISH-USA",REELZ HD
 http://38.143.137.105:8080/Greene/Greene/413532
-#EXTINF:-1 tvg-id="MY13KCOP.us" tvg-name="..MY 13 (KCOP) Los Angeles" tvg-logo="http://38.143.137.20/logo/prestige/United-States/my13.png" group-title="ENGLISH-USA",..MY 13 (KCOP) Los Angeles
+#EXTINF:-1 tvg-id="MY13KCOP.us" tvg-name="..MY 13 (KCOP) Los Angeles" tvg-logo="http://38.143.137.20/logo/prestige/United-States/my13.png" group-title="ENGLISH-USA",MY 13 (KCOP) Los Angeles
 http://38.143.137.105:8080/Greene/Greene/414145
-#EXTINF:-1 tvg-id="HeroesAndIconsTV.us" tvg-name="..Heroes & Icons Network" tvg-logo="http://38.143.137.20/logo/prestige/United-States/heroes-and-icons-us.png" group-title="ENGLISH-USA",..Heroes & Icons Network
+#EXTINF:-1 tvg-id="HeroesAndIconsTV.us" tvg-name="..Heroes & Icons Network" tvg-logo="http://38.143.137.20/logo/prestige/United-States/heroes-and-icons-us.png" group-title="ENGLISH-USA",Heroes & Icons Network
 http://38.143.137.105:8080/Greene/Greene/414146
-#EXTINF:-1 tvg-id="CoziTV.us" tvg-name="..COZI" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cozi-tv-us.png" group-title="ENGLISH-USA",..COZI
+#EXTINF:-1 tvg-id="CoziTV.us" tvg-name="..COZI" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cozi-tv-us.png" group-title="ENGLISH-USA",COZI
 http://38.143.137.105:8080/Greene/Greene/414147
-#EXTINF:-1 tvg-id="Laff.us" tvg-name="..LAFF HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/laff_tv_us.png" group-title="ENGLISH-USA",..LAFF HD
+#EXTINF:-1 tvg-id="Laff.us" tvg-name="..LAFF HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/laff_tv_us.png" group-title="ENGLISH-USA",LAFF HD
 http://38.143.137.105:8080/Greene/Greene/414149
-#EXTINF:-1 tvg-id="MeTVWJLP.us" tvg-name="..METV" tvg-logo="http://38.143.137.20/logo/prestige/United-States/me_tv_us.png" group-title="ENGLISH-USA",..METV
+#EXTINF:-1 tvg-id="MeTVWJLP.us" tvg-name="..METV" tvg-logo="http://38.143.137.20/logo/prestige/United-States/me_tv_us.png" group-title="ENGLISH-USA",METV
 http://38.143.137.105:8080/Greene/Greene/414752
-#EXTINF:-1 tvg-id="WGNAmerica.us" tvg-name="..WGN HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/wgn_america_us_east.png" group-title="ENGLISH-USA",..WGN HD
+#EXTINF:-1 tvg-id="WGNAmerica.us" tvg-name="..WGN HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/wgn_america_us_east.png" group-title="ENGLISH-USA",WGN HD
 http://38.143.137.105:8080/Greene/Greene/416463
-#EXTINF:-1 tvg-id="WeTV.us" tvg-name="..WE TV+ HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/we_tv_us.png" group-title="ENGLISH-USA",..WE TV+ HD
+#EXTINF:-1 tvg-id="WeTV.us" tvg-name="..WE TV+ HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/we_tv_us.png" group-title="ENGLISH-USA",WE TV+ HD
 http://38.143.137.105:8080/Greene/Greene/416465
-#EXTINF:-1 tvg-id="TNT.us" tvg-name="..TNT WEST" tvg-logo="http://38.143.137.20/logo/prestige/United-States/tnt_us.png" group-title="ENGLISH-USA",..TNT WEST
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="..TNT WEST" tvg-logo="http://38.143.137.20/logo/prestige/United-States/tnt_us.png" group-title="ENGLISH-USA",TNT WEST
 http://38.143.137.105:8080/Greene/Greene/52967
-#EXTINF:-1 tvg-id="TNT.us" tvg-name="..TNT EAST HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/tnt_us.png" group-title="ENGLISH-USA",..TNT EAST HD
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="..TNT EAST HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/tnt_us.png" group-title="ENGLISH-USA",TNT EAST HD
 http://38.143.137.105:8080/Greene/Greene/7901
-#EXTINF:-1 tvg-id="ElRey.us" tvg-name="..AWE NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/El_Rey_Network.png" group-title="ENGLISH-USA",..AWE NETWORK HD
+#EXTINF:-1 tvg-id="ElRey.us" tvg-name="..AWE NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/El_Rey_Network.png" group-title="ENGLISH-USA",AWE NETWORK HD
 http://38.143.137.105:8080/Greene/Greene/7863
-#EXTINF:-1 tvg-id="DoItYourselfNetwork.us" tvg-name="..DIY NETWORK" tvg-logo="http://38.143.137.20/logo/prestige/United-States/diy_network_us.png" group-title="ENGLISH-USA",..DIY NETWORK
+#EXTINF:-1 tvg-id="DoItYourselfNetwork.us" tvg-name="..DIY NETWORK" tvg-logo="http://38.143.137.20/logo/prestige/United-States/diy_network_us.png" group-title="ENGLISH-USA",DIY NETWORK
 http://38.143.137.105:8080/Greene/Greene/7864
-#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="..ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/190px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="ENGLISH-USA",..ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="..ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/190px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="ENGLISH-USA",ANIMAL PLANET HD
 http://38.143.137.105:8080/Greene/Greene/7868
-#EXTINF:-1 tvg-id="NatGeo.us" tvg-name="..NATIONAL GEOGRAPHIC" tvg-logo="http://38.143.137.20/logo/prestige/United-States/national-geographic-wild-us.png" group-title="ENGLISH-USA",..NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id="NatGeo.us" tvg-name="..NATIONAL GEOGRAPHIC" tvg-logo="http://38.143.137.20/logo/prestige/United-States/national-geographic-wild-us.png" group-title="ENGLISH-USA",NATIONAL GEOGRAPHIC
 http://38.143.137.105:8080/Greene/Greene/7899
-#EXTINF:-1 tvg-id="NatGeoWild.us" tvg-name="..NAT GEO WILD HD" tvg-logo="https://sc.dish.com/shared/images/station-logos/natgw.png" group-title="ENGLISH-USA",..NAT GEO WILD HD
+#EXTINF:-1 tvg-id="NatGeoWild.us" tvg-name="..NAT GEO WILD HD" tvg-logo="https://sc.dish.com/shared/images/station-logos/natgw.png" group-title="ENGLISH-USA",NAT GEO WILD HD
 http://38.143.137.105:8080/Greene/Greene/7959
-#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="..DESTINATION AMERICA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/destination_america_us.png" group-title="ENGLISH-USA",..DESTINATION AMERICA HD
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="..DESTINATION AMERICA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/destination_america_us.png" group-title="ENGLISH-USA",DESTINATION AMERICA HD
 http://38.143.137.105:8080/Greene/Greene/57423
-#EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="..CBS REALITY HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs-reality-uk.png" group-title="ENGLISH-USA",..CBS REALITY HD
+#EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="..CBS REALITY HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs-reality-uk.png" group-title="ENGLISH-USA",CBS REALITY HD
 http://38.143.137.105:8080/Greene/Greene/7871
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="..USA NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/usa_network_west.png" group-title="ENGLISH-USA",..USA NETWORK HD
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="..USA NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/usa_network_west.png" group-title="ENGLISH-USA",USA NETWORK HD
 http://38.143.137.105:8080/Greene/Greene/7874
-#EXTINF:-1 tvg-id="EEntertainment.us" tvg-name="..E! ENTERTAINMENT WEST HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/e_global_us.png" group-title="ENGLISH-USA",..E! ENTERTAINMENT WEST HD
+#EXTINF:-1 tvg-id="EEntertainment.us" tvg-name="..E! ENTERTAINMENT WEST HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/e_global_us.png" group-title="ENGLISH-USA",E! ENTERTAINMENT WEST HD
 http://38.143.137.105:8080/Greene/Greene/7908
-#EXTINF:-1 tvg-id="Syfy.us" tvg-name="..SYFY HD US" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-1_608.png" group-title="ENGLISH-USA",..SYFY HD US
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="..SYFY HD US" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-1_608.png" group-title="ENGLISH-USA",SYFY HD US
 http://38.143.137.105:8080/Greene/Greene/7910
-#EXTINF:-1 tvg-id="AandE.us" tvg-name="..A&E" tvg-logo="http://glmtv.pw/logo/prestige/United-States/ae_us.png" group-title="ENGLISH-USA",..A&E
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="..A&E" tvg-logo="http://glmtv.pw/logo/prestige/United-States/ae_us.png" group-title="ENGLISH-USA",A&E
 http://38.143.137.105:8080/Greene/Greene/7918
-#EXTINF:-1 tvg-id="Viceland.us" tvg-name="..VICELAND HD" tvg-logo="https://lhtcbroadband.com/wp-content/uploads/2018/02/Viceland.png" group-title="ENGLISH-USA",..VICELAND HD
+#EXTINF:-1 tvg-id="Viceland.us" tvg-name="..VICELAND HD" tvg-logo="https://lhtcbroadband.com/wp-content/uploads/2018/02/Viceland.png" group-title="ENGLISH-USA",VICELAND HD
 http://38.143.137.105:8080/Greene/Greene/7920
-#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="..COMEDY CENTRAL HD" tvg-logo="http://glmtv.pw/logo/prestige/United-Kingdom/comedy-central-deutschland-us-de.png" group-title="ENGLISH-USA",..COMEDY CENTRAL HD
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="..COMEDY CENTRAL HD" tvg-logo="http://glmtv.pw/logo/prestige/United-Kingdom/comedy-central-deutschland-us-de.png" group-title="ENGLISH-USA",COMEDY CENTRAL HD
 http://38.143.137.105:8080/Greene/Greene/7985
-#EXTINF:-1 tvg-id="EEntertainment.uk" tvg-name="..E! ENTERTAINMENT EAST HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/e_global_us.png" group-title="ENGLISH-USA",..E! ENTERTAINMENT EAST HD
+#EXTINF:-1 tvg-id="EEntertainment.uk" tvg-name="..E! ENTERTAINMENT EAST HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/e_global_us.png" group-title="ENGLISH-USA",E! ENTERTAINMENT EAST HD
 http://38.143.137.105:8080/Greene/Greene/15495
-#EXTINF:-1 tvg-id="WorldFishingNetwork.ca" tvg-name="..WORLD FISHING NETWORK. US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="ENGLISH-USA",..WORLD FISHING NETWORK. US
+#EXTINF:-1 tvg-id="WorldFishingNetwork.ca" tvg-name="..WORLD FISHING NETWORK. US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="ENGLISH-USA",WORLD FISHING NETWORK. US
 http://38.143.137.105:8080/Greene/Greene/21019
-#EXTINF:-1 tvg-id="truTV.us" tvg-name="..TRU TV" tvg-logo="http://38.143.137.20/logo/prestige/United-States/tru_tv_br.png" group-title="ENGLISH-USA",..TRU TV
+#EXTINF:-1 tvg-id="truTV.us" tvg-name="..TRU TV" tvg-logo="http://38.143.137.20/logo/prestige/United-States/tru_tv_br.png" group-title="ENGLISH-USA",TRU TV
 http://38.143.137.105:8080/Greene/Greene/30428
-#EXTINF:-1 tvg-id="CrimeInvestigation.us" tvg-name="..CRIME AND INVESTIGATION HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/crime_investigation_us.png" group-title="ENGLISH-USA",..CRIME AND INVESTIGATION HD
+#EXTINF:-1 tvg-id="CrimeInvestigation.us" tvg-name="..CRIME AND INVESTIGATION HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/crime_investigation_us.png" group-title="ENGLISH-USA",CRIME AND INVESTIGATION HD
 http://38.143.137.105:8080/Greene/Greene/52964
-#EXTINF:-1 tvg-id="CMT.us" tvg-name="..CMT" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cmt-us.png" group-title="ENGLISH-USA",..CMT
+#EXTINF:-1 tvg-id="CMT.us" tvg-name="..CMT" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cmt-us.png" group-title="ENGLISH-USA",CMT
 http://38.143.137.105:8080/Greene/Greene/80993
-#EXTINF:-1 tvg-id="TLC.us" tvg-name="..TLC HD" tvg-logo="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/404/2018/03/02112944/2000px-TLC_Logo.svg_-200x200.png" group-title="ENGLISH-USA",..TLC HD
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="..TLC HD" tvg-logo="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/404/2018/03/02112944/2000px-TLC_Logo.svg_-200x200.png" group-title="ENGLISH-USA",TLC HD
 http://38.143.137.105:8080/Greene/Greene/7914
-#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="..SUNDANCE TV" tvg-logo="http://38.143.137.20/logo/prestige/United-States/sundance_tv_us.png" group-title="ENGLISH-USA",..SUNDANCE TV
+#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="..SUNDANCE TV" tvg-logo="http://38.143.137.20/logo/prestige/United-States/sundance_tv_us.png" group-title="ENGLISH-USA",SUNDANCE TV
 http://38.143.137.105:8080/Greene/Greene/67142
-#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="..AMERICAN HEROS CHANNEL" tvg-logo="http://38.143.137.20/logo/prestige/United-States/american_heroes_channel_us.png" group-title="ENGLISH-USA",..AMERICAN HEROS CHANNEL
+#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="..AMERICAN HEROS CHANNEL" tvg-logo="http://38.143.137.20/logo/prestige/United-States/american_heroes_channel_us.png" group-title="ENGLISH-USA",AMERICAN HEROS CHANNEL
 http://38.143.137.105:8080/Greene/Greene/7869
-#EXTINF:-1 tvg-id="TurnerClassicMovies.us" tvg-name="..TURNER CLASSIC MOVIES US" tvg-logo="https://sc.dish.com/shared/images/station-logos/tcm.png" group-title="ENGLISH-USA",..TURNER CLASSIC MOVIES US
+#EXTINF:-1 tvg-id="TurnerClassicMovies.us" tvg-name="..TURNER CLASSIC MOVIES US" tvg-logo="https://sc.dish.com/shared/images/station-logos/tcm.png" group-title="ENGLISH-USA",TURNER CLASSIC MOVIES US
 http://38.143.137.105:8080/Greene/Greene/15391
-#EXTINF:-1 tvg-id="RFDTV.us" tvg-name="..RFD-TV HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/rfd_tv_us.png" group-title="ENGLISH-USA",..RFD-TV HD
+#EXTINF:-1 tvg-id="RFDTV.us" tvg-name="..RFD-TV HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/rfd_tv_us.png" group-title="ENGLISH-USA",RFD-TV HD
 http://38.143.137.105:8080/Greene/Greene/431549
-#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="..TRAVEL CHANNEL HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/travel_channel_us.png" group-title="ENGLISH-USA",..TRAVEL CHANNEL HD
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="..TRAVEL CHANNEL HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/travel_channel_us.png" group-title="ENGLISH-USA",TRAVEL CHANNEL HD
 http://38.143.137.105:8080/Greene/Greene/59255
-#EXTINF:-1 tvg-id="WeatherChannel.us" tvg-name="..THE WEATHER CHANEL" tvg-logo="http://38.143.137.20/logo/prestige/United-States/the-weather-channel-us.png" group-title="ENGLISH-USA",..THE WEATHER CHANEL
+#EXTINF:-1 tvg-id="WeatherChannel.us" tvg-name="..THE WEATHER CHANEL" tvg-logo="http://38.143.137.20/logo/prestige/United-States/the-weather-channel-us.png" group-title="ENGLISH-USA",THE WEATHER CHANEL
 http://38.143.137.105:8080/Greene/Greene/30426
-#EXTINF:-1 tvg-id="MTV.us" tvg-name="..MTV" tvg-logo="http://www.vector-logo.net/logo_preview/eps/m/mtv.png" group-title="ENGLISH-USA",..MTV
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="..MTV" tvg-logo="http://www.vector-logo.net/logo_preview/eps/m/mtv.png" group-title="ENGLISH-USA",MTV
 http://38.143.137.105:8080/Greene/Greene/7921
-#EXTINF:-1 tvg-id="MTVU.us" tvg-name="..MTV U" tvg-logo="http://epg4you.com/logos/mtvbase.png" group-title="ENGLISH-USA",..MTV U
+#EXTINF:-1 tvg-id="MTVU.us" tvg-name="..MTV U" tvg-logo="http://epg4you.com/logos/mtvbase.png" group-title="ENGLISH-USA",MTV U
 http://38.143.137.105:8080/Greene/Greene/15456
-#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="..MTV LIVE" tvg-logo="http://epg4you.com/logos/mtvclassic.png" group-title="ENGLISH-USA",..MTV LIVE
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="..MTV LIVE" tvg-logo="http://epg4you.com/logos/mtvclassic.png" group-title="ENGLISH-USA",MTV LIVE
 http://38.143.137.105:8080/Greene/Greene/15455
-#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="..MTV CLASSIC" tvg-logo="http://epg4you.com/logos/mtvmusic.png" group-title="ENGLISH-USA",..MTV CLASSIC
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="..MTV CLASSIC" tvg-logo="http://epg4you.com/logos/mtvmusic.png" group-title="ENGLISH-USA",MTV CLASSIC
 http://38.143.137.105:8080/Greene/Greene/15452
-#EXTINF:-1 tvg-id="FOXWJBK.us" tvg-name="..FOX 2 DETROIT HD " tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox-channel-latin-america-us.png" group-title="ENGLISH-USA",..FOX 2 DETROIT HD 
+#EXTINF:-1 tvg-id="FOXWJBK.us" tvg-name="..FOX 2 DETROIT HD " tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox-channel-latin-america-us.png" group-title="ENGLISH-USA",FOX 2 DETROIT HD 
 http://38.143.137.105:8080/Greene/Greene/148174
-#EXTINF:-1 tvg-id="FOXWNYW.us" tvg-name="..FOX 5 SAN DIEGO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",..FOX 5 SAN DIEGO HD
+#EXTINF:-1 tvg-id="FOXWNYW.us" tvg-name="..FOX 5 SAN DIEGO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",FOX 5 SAN DIEGO HD
 http://38.143.137.105:8080/Greene/Greene/56474
-#EXTINF:-1 tvg-id="Fox4MoreKDFI.us" tvg-name="..FOX 4 KANSAS CITY HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",..FOX 4 KANSAS CITY HD
+#EXTINF:-1 tvg-id="Fox4MoreKDFI.us" tvg-name="..FOX 4 KANSAS CITY HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",FOX 4 KANSAS CITY HD
 http://38.143.137.105:8080/Greene/Greene/87519
-#EXTINF:-1 tvg-id="FOXWJW.us" tvg-name="..FOX 8 CLEAVELAND HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",..FOX 8 CLEAVELAND HD
+#EXTINF:-1 tvg-id="FOXWJW.us" tvg-name="..FOX 8 CLEAVELAND HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",FOX 8 CLEAVELAND HD
 http://38.143.137.105:8080/Greene/Greene/87527
-#EXTINF:-1 tvg-id="FOXKDFW.us" tvg-name="..FOX 4 DALLAS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",..FOX 4 DALLAS HD
+#EXTINF:-1 tvg-id="FOXKDFW.us" tvg-name="..FOX 4 DALLAS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",FOX 4 DALLAS HD
 http://38.143.137.105:8080/Greene/Greene/148141
-#EXTINF:-1 tvg-id="FOXWAGA.us" tvg-name="..FOX 5 ATLANTA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",..FOX 5 ATLANTA HD
+#EXTINF:-1 tvg-id="FOXWAGA.us" tvg-name="..FOX 5 ATLANTA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",FOX 5 ATLANTA HD
 http://38.143.137.105:8080/Greene/Greene/148142
-#EXTINF:-1 tvg-id="FOXWNYW.us" tvg-name="..FOX 5 NEW YORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",..FOX 5 NEW YORK HD
+#EXTINF:-1 tvg-id="FOXWNYW.us" tvg-name="..FOX 5 NEW YORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",FOX 5 NEW YORK HD
 http://38.143.137.105:8080/Greene/Greene/148143
-#EXTINF:-1 tvg-id="FOXWTTG.us" tvg-name="..FOX 5 Wash DC HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",..FOX 5 Wash DC HD
+#EXTINF:-1 tvg-id="FOXWTTG.us" tvg-name="..FOX 5 Wash DC HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",FOX 5 Wash DC HD
 http://38.143.137.105:8080/Greene/Greene/165764
-#EXTINF:-1 tvg-id="" tvg-name="..FOX 7 MIAMI HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",..FOX 7 MIAMI HD
+#EXTINF:-1 tvg-id="" tvg-name="..FOX 7 MIAMI HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",FOX 7 MIAMI HD
 http://38.143.137.105:8080/Greene/Greene/148146
-#EXTINF:-1 tvg-id="FOXKDFW.us" tvg-name="..FOX 7 AUSTIN TX HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",..FOX 7 AUSTIN TX HD
+#EXTINF:-1 tvg-id="FOXKDFW.us" tvg-name="..FOX 7 AUSTIN TX HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",FOX 7 AUSTIN TX HD
 http://38.143.137.105:8080/Greene/Greene/148145
-#EXTINF:-1 tvg-id="FOXWJW.us" tvg-name="..FOX 08 CLEVELAND HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",..FOX 08 CLEVELAND HD
+#EXTINF:-1 tvg-id="FOXWJW.us" tvg-name="..FOX 08 CLEVELAND HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",FOX 08 CLEVELAND HD
 http://38.143.137.105:8080/Greene/Greene/353278
-#EXTINF:-1 tvg-id="FOXKMSP.us" tvg-name="..FOX 9 MINNEAPOLIS HD" tvg-logo="https://media.fox9.com/lakana-fox-global/theme/images/kmsp/logo-fox-9-minneapolis-kmsp-alt.png" group-title="ENGLISH-USA",..FOX 9 MINNEAPOLIS HD
+#EXTINF:-1 tvg-id="FOXKMSP.us" tvg-name="..FOX 9 MINNEAPOLIS HD" tvg-logo="https://media.fox9.com/lakana-fox-global/theme/images/kmsp/logo-fox-9-minneapolis-kmsp-alt.png" group-title="ENGLISH-USA",FOX 9 MINNEAPOLIS HD
 http://38.143.137.105:8080/Greene/Greene/56471
-#EXTINF:-1 tvg-id="FOX50WRAZ.us" tvg-name="..FOX 10 PHOENIX HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",..FOX 10 PHOENIX HD
+#EXTINF:-1 tvg-id="FOX50WRAZ.us" tvg-name="..FOX 10 PHOENIX HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",FOX 10 PHOENIX HD
 http://38.143.137.105:8080/Greene/Greene/150386
-#EXTINF:-1 tvg-id="Fox11KTTV.us" tvg-name="..FOX 11 LOS ANGELES HD " tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",..FOX 11 LOS ANGELES HD 
+#EXTINF:-1 tvg-id="Fox11KTTV.us" tvg-name="..FOX 11 LOS ANGELES HD " tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",FOX 11 LOS ANGELES HD 
 http://38.143.137.105:8080/Greene/Greene/56473
-#EXTINF:-1 tvg-id="FOXKRIV.us" tvg-name="..FOX 26 HOUSTON HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",..FOX 26 HOUSTON HD
+#EXTINF:-1 tvg-id="FOXKRIV.us" tvg-name="..FOX 26 HOUSTON HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",FOX 26 HOUSTON HD
 http://38.143.137.105:8080/Greene/Greene/148136
-#EXTINF:-1 tvg-id="Fox28WTTE.us" tvg-name="..FOX 28 COLUMBUS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",..FOX 28 COLUMBUS HD
+#EXTINF:-1 tvg-id="Fox28WTTE.us" tvg-name="..FOX 28 COLUMBUS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",FOX 28 COLUMBUS HD
 http://38.143.137.105:8080/Greene/Greene/148137
-#EXTINF:-1 tvg-id="FOXWTXF.us" tvg-name="..FOX 29 PHILADELPHIA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",..FOX 29 PHILADELPHIA HD
+#EXTINF:-1 tvg-id="FOXWTXF.us" tvg-name="..FOX 29 PHILADELPHIA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",FOX 29 PHILADELPHIA HD
 http://38.143.137.105:8080/Greene/Greene/148138
-#EXTINF:-1 tvg-id="FOX32WFLD.us" tvg-name="..FOX 32 CHICAGO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",..FOX 32 CHICAGO HD
+#EXTINF:-1 tvg-id="FOX32WFLD.us" tvg-name="..FOX 32 CHICAGO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",FOX 32 CHICAGO HD
 http://38.143.137.105:8080/Greene/Greene/148140
-#EXTINF:-1 tvg-id="" tvg-name="..FOX 33 HD SHREVEPORT" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox-channel-latin-america-us.png" group-title="ENGLISH-USA",..FOX 33 HD SHREVEPORT
+#EXTINF:-1 tvg-id="" tvg-name="..FOX 33 HD SHREVEPORT" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox-channel-latin-america-us.png" group-title="ENGLISH-USA",FOX 33 HD SHREVEPORT
 http://38.143.137.105:8080/Greene/Greene/431454
-#EXTINF:-1 tvg-id="Fox28WTTE.us" tvg-name="..FOX 54 AUGUSTA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",..FOX 54 AUGUSTA HD
+#EXTINF:-1 tvg-id="Fox28WTTE.us" tvg-name="..FOX 54 AUGUSTA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",FOX 54 AUGUSTA HD
 http://38.143.137.105:8080/Greene/Greene/148144
-#EXTINF:-1 tvg-id="FOX30WFOX.us" tvg-name="..FOX 30 JACKSONVILLE HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",..FOX 30 JACKSONVILLE HD
+#EXTINF:-1 tvg-id="FOX30WFOX.us" tvg-name="..FOX 30 JACKSONVILLE HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",FOX 30 JACKSONVILLE HD
 http://38.143.137.105:8080/Greene/Greene/181477
-#EXTINF:-1 tvg-id="FOXWXIN.us" tvg-name="..FOX 59 INDIANAPOLIS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",..FOX 59 INDIANAPOLIS HD
+#EXTINF:-1 tvg-id="FOXWXIN.us" tvg-name="..FOX 59 INDIANAPOLIS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png" group-title="ENGLISH-USA",FOX 59 INDIANAPOLIS HD
 http://38.143.137.105:8080/Greene/Greene/148147
-#EXTINF:-1 tvg-id="CBSWBBM.us" tvg-name="..CBS 2 CHICAGO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",..CBS 2 CHICAGO HD
+#EXTINF:-1 tvg-id="CBSWBBM.us" tvg-name="..CBS 2 CHICAGO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",CBS 2 CHICAGO HD
 http://38.143.137.105:8080/Greene/Greene/148110
-#EXTINF:-1 tvg-id="CBSWCBS.us" tvg-name="..CBS 2 NEW YORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",..CBS 2 NEW YORK HD
+#EXTINF:-1 tvg-id="CBSWCBS.us" tvg-name="..CBS 2 NEW YORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",CBS 2 NEW YORK HD
 http://38.143.137.105:8080/Greene/Greene/148111
-#EXTINF:-1 tvg-id="CBS2KDKA.us" tvg-name="..CBS 2 PITTSBURGH HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",..CBS 2 PITTSBURGH HD
+#EXTINF:-1 tvg-id="CBS2KDKA.us" tvg-name="..CBS 2 PITTSBURGH HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",CBS 2 PITTSBURGH HD
 http://38.143.137.105:8080/Greene/Greene/148112
-#EXTINF:-1 tvg-id="CBSKCBS.us" tvg-name="..CBS 2 LOS ANGELES HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",..CBS 2 LOS ANGELES HD
+#EXTINF:-1 tvg-id="CBSKCBS.us" tvg-name="..CBS 2 LOS ANGELES HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",CBS 2 LOS ANGELES HD
 http://38.143.137.105:8080/Greene/Greene/148113
-#EXTINF:-1 tvg-id="CBSWBTV.us" tvg-name="..CBS 3 CHARLOTTE HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",..CBS 3 CHARLOTTE HD
+#EXTINF:-1 tvg-id="CBSWBTV.us" tvg-name="..CBS 3 CHARLOTTE HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",CBS 3 CHARLOTTE HD
 http://38.143.137.105:8080/Greene/Greene/148114
-#EXTINF:-1 tvg-id="CBSKYW.us" tvg-name="..CBS 3 PHILADELPHIA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",..CBS 3 PHILADELPHIA HD
+#EXTINF:-1 tvg-id="CBSKYW.us" tvg-name="..CBS 3 PHILADELPHIA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",CBS 3 PHILADELPHIA HD
 http://38.143.137.105:8080/Greene/Greene/148115
-#EXTINF:-1 tvg-id="CBSWBZ.us" tvg-name="..CBS 4 BOSTON HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",..CBS 4 BOSTON HD
+#EXTINF:-1 tvg-id="CBSWBZ.us" tvg-name="..CBS 4 BOSTON HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",CBS 4 BOSTON HD
 http://38.143.137.105:8080/Greene/Greene/148116
-#EXTINF:-1 tvg-id="CBS4KCNC.us" tvg-name="..CBS 4 DENVER HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",..CBS 4 DENVER HD
+#EXTINF:-1 tvg-id="CBS4KCNC.us" tvg-name="..CBS 4 DENVER HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",CBS 4 DENVER HD
 http://38.143.137.105:8080/Greene/Greene/148117
-#EXTINF:-1 tvg-id="CBSWFOR.us" tvg-name="..CBS 4 MIAMI HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",..CBS 4 MIAMI HD
+#EXTINF:-1 tvg-id="CBSWFOR.us" tvg-name="..CBS 4 MIAMI HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",CBS 4 MIAMI HD
 http://38.143.137.105:8080/Greene/Greene/148118
-#EXTINF:-1 tvg-id="CBSKMOV.us" tvg-name="..CBS 4 ST LOUIS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",..CBS 4 ST LOUIS HD
+#EXTINF:-1 tvg-id="CBSKMOV.us" tvg-name="..CBS 4 ST LOUIS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",CBS 4 ST LOUIS HD
 http://38.143.137.105:8080/Greene/Greene/148119
-#EXTINF:-1 tvg-id="CBS46WGCL.us" tvg-name="..CBS 46 ATLANTA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",..CBS 46 ATLANTA HD
+#EXTINF:-1 tvg-id="CBS46WGCL.us" tvg-name="..CBS 46 ATLANTA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",CBS 46 ATLANTA HD
 http://38.143.137.105:8080/Greene/Greene/148120
-#EXTINF:-1 tvg-id="CBSKPHO.us" tvg-name="..CBS 5 PHOENIX HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",..CBS 5 PHOENIX HD
+#EXTINF:-1 tvg-id="CBSKPHO.us" tvg-name="..CBS 5 PHOENIX HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",CBS 5 PHOENIX HD
 http://38.143.137.105:8080/Greene/Greene/148121
-#EXTINF:-1 tvg-id="CBSKENS.us" tvg-name="..CBS 5 SAN ANTONIO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",..CBS 5 SAN ANTONIO HD
+#EXTINF:-1 tvg-id="CBSKENS.us" tvg-name="..CBS 5 SAN ANTONIO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",CBS 5 SAN ANTONIO HD
 http://38.143.137.105:8080/Greene/Greene/148122
-#EXTINF:-1 tvg-id="KPIX.us" tvg-name="..CBS 5 SAN FRANCISCO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",..CBS 5 SAN FRANCISCO HD
+#EXTINF:-1 tvg-id="KPIX.us" tvg-name="..CBS 5 SAN FRANCISCO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",CBS 5 SAN FRANCISCO HD
 http://38.143.137.105:8080/Greene/Greene/148123
-#EXTINF:-1 tvg-id="" tvg-name="..CBS 4 MINNEAPOLIS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",..CBS 4 MINNEAPOLIS HD
+#EXTINF:-1 tvg-id="" tvg-name="..CBS 4 MINNEAPOLIS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",CBS 4 MINNEAPOLIS HD
 http://38.143.137.105:8080/Greene/Greene/148135
-#EXTINF:-1 tvg-id="CBSKIRO.us" tvg-name="..CBS 7 SEATTLE HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",..CBS 7 SEATTLE HD
+#EXTINF:-1 tvg-id="CBSKIRO.us" tvg-name="..CBS 7 SEATTLE HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",CBS 7 SEATTLE HD
 http://38.143.137.105:8080/Greene/Greene/148126
-#EXTINF:-1 tvg-id="CBSKFMB.us" tvg-name="..CBS 8 SAN DIEGO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",..CBS 8 SAN DIEGO HD
+#EXTINF:-1 tvg-id="CBSKFMB.us" tvg-name="..CBS 8 SAN DIEGO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",CBS 8 SAN DIEGO HD
 http://38.143.137.105:8080/Greene/Greene/148127
-#EXTINF:-1 tvg-id="CBSKLAS.us" tvg-name="..CBS 8 LAS VEGAS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",..CBS 8 LAS VEGAS HD
+#EXTINF:-1 tvg-id="CBSKLAS.us" tvg-name="..CBS 8 LAS VEGAS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",CBS 8 LAS VEGAS HD
 http://38.143.137.105:8080/Greene/Greene/316963
-#EXTINF:-1 tvg-id="KCAL.us" tvg-name="..CBS 9 LOS ANGELES HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",..CBS 9 LOS ANGELES HD
+#EXTINF:-1 tvg-id="KCAL.us" tvg-name="..CBS 9 LOS ANGELES HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",CBS 9 LOS ANGELES HD
 http://38.143.137.105:8080/Greene/Greene/148148
-#EXTINF:-1 tvg-id="CBSWUSA.us" tvg-name="..CBS 9 WASHINGTON DC HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",..CBS 9 WASHINGTON DC HD
+#EXTINF:-1 tvg-id="CBSWUSA.us" tvg-name="..CBS 9 WASHINGTON DC HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",CBS 9 WASHINGTON DC HD
 http://38.143.137.105:8080/Greene/Greene/165766
-#EXTINF:-1 tvg-id="CBSKHOU.us" tvg-name="..CBS 11 HOUSTON HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",..CBS 11 HOUSTON HD
+#EXTINF:-1 tvg-id="CBSKHOU.us" tvg-name="..CBS 11 HOUSTON HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",CBS 11 HOUSTON HD
 http://38.143.137.105:8080/Greene/Greene/148108
-#EXTINF:-1 tvg-id="CBS11WTOL.us" tvg-name="..CBS 11 DALLAS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",..CBS 11 DALLAS HD
+#EXTINF:-1 tvg-id="CBS11WTOL.us" tvg-name="..CBS 11 DALLAS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",CBS 11 DALLAS HD
 http://38.143.137.105:8080/Greene/Greene/87517
-#EXTINF:-1 tvg-id="WRDW.us" tvg-name="..CBS 12 KSLA HD SHREVEPORT" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",..CBS 12 KSLA HD SHREVEPORT
+#EXTINF:-1 tvg-id="WRDW.us" tvg-name="..CBS 12 KSLA HD SHREVEPORT" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",CBS 12 KSLA HD SHREVEPORT
 http://38.143.137.105:8080/Greene/Greene/148106
-#EXTINF:-1 tvg-id="CBSWJZ.us" tvg-name="..CBS 13 BALTIMORE HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",..CBS 13 BALTIMORE HD
+#EXTINF:-1 tvg-id="CBSWJZ.us" tvg-name="..CBS 13 BALTIMORE HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",CBS 13 BALTIMORE HD
 http://38.143.137.105:8080/Greene/Greene/148109
-#EXTINF:-1 tvg-id="" tvg-name="..CBS 47 JACKSONVILLE FL HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",..CBS 47 JACKSONVILLE FL HD
+#EXTINF:-1 tvg-id="" tvg-name="..CBS 47 JACKSONVILLE FL HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",CBS 47 JACKSONVILLE FL HD
 http://38.143.137.105:8080/Greene/Greene/181475
-#EXTINF:-1 tvg-id="CBSNews.us" tvg-name="..CBS 21 COLUMBUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/CBSN_channel_Logo.png/120px-CBSN_channel_Logo.png" group-title="ENGLISH-USA",..CBS 21 COLUMBUS HD
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-name="..CBS 21 COLUMBUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/CBSN_channel_Logo.png/120px-CBSN_channel_Logo.png" group-title="ENGLISH-USA",CBS 21 COLUMBUS HD
 http://38.143.137.105:8080/Greene/Greene/30424
-#EXTINF:-1 tvg-id="CBSWOIO.us" tvg-name="..CBS 19 CLEVELAND HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",..CBS 19 CLEVELAND HD
+#EXTINF:-1 tvg-id="CBSWOIO.us" tvg-name="..CBS 19 CLEVELAND HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",CBS 19 CLEVELAND HD
 http://38.143.137.105:8080/Greene/Greene/390399
-#EXTINF:-1 tvg-id="CBSWDJT.us" tvg-name="..CBS 58 MILWAUKEE HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",..CBS 58 MILWAUKEE HD
+#EXTINF:-1 tvg-id="CBSWDJT.us" tvg-name="..CBS 58 MILWAUKEE HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",CBS 58 MILWAUKEE HD
 http://38.143.137.105:8080/Greene/Greene/148124
-#EXTINF:-1 tvg-id="CBS62WWJ.us" tvg-name="..CBS 62 DETROIT HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",..CBS 62 DETROIT HD
+#EXTINF:-1 tvg-id="CBS62WWJ.us" tvg-name="..CBS 62 DETROIT HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png" group-title="ENGLISH-USA",CBS 62 DETROIT HD
 http://38.143.137.105:8080/Greene/Greene/148125
-#EXTINF:-1 tvg-id="NBCWKYC.us" tvg-name="..NBC 03 CLEVELAND HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",..NBC 03 CLEVELAND HD
+#EXTINF:-1 tvg-id="NBCWKYC.us" tvg-name="..NBC 03 CLEVELAND HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",NBC 03 CLEVELAND HD
 http://38.143.137.105:8080/Greene/Greene/390398
-#EXTINF:-1 tvg-id="NBC4KNBC.us" tvg-name="..NBC 4 LOS ANGELES HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",..NBC 4 LOS ANGELES HD
+#EXTINF:-1 tvg-id="NBC4KNBC.us" tvg-name="..NBC 4 LOS ANGELES HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",NBC 4 LOS ANGELES HD
 http://38.143.137.105:8080/Greene/Greene/148150
-#EXTINF:-1 tvg-id="CBSWBNS.us" tvg-name="..NBC 4 COLUMBUS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",..NBC 4 COLUMBUS HD
+#EXTINF:-1 tvg-id="CBSWBNS.us" tvg-name="..NBC 4 COLUMBUS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",NBC 4 COLUMBUS HD
 http://38.143.137.105:8080/Greene/Greene/148107
-#EXTINF:-1 tvg-id="" tvg-name="..NBC 3 LAS VEGAS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",..NBC 3 LAS VEGAS HD
+#EXTINF:-1 tvg-id="" tvg-name="..NBC 3 LAS VEGAS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",NBC 3 LAS VEGAS HD
 http://38.143.137.105:8080/Greene/Greene/148149
-#EXTINF:-1 tvg-id="" tvg-name="..NBC 2 ORLANDO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",..NBC 2 ORLANDO HD
+#EXTINF:-1 tvg-id="" tvg-name="..NBC 2 ORLANDO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",NBC 2 ORLANDO HD
 http://38.143.137.105:8080/Greene/Greene/148151
-#EXTINF:-1 tvg-id="NBCWOAI.us" tvg-name="..NBC 10 BOSTON HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",..NBC 10 BOSTON HD
+#EXTINF:-1 tvg-id="NBCWOAI.us" tvg-name="..NBC 10 BOSTON HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",NBC 10 BOSTON HD
 http://38.143.137.105:8080/Greene/Greene/148173
-#EXTINF:-1 tvg-id="NBC4WCMH.us" tvg-name="..NBC 4 WASH DC HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",..NBC 4 WASH DC HD
+#EXTINF:-1 tvg-id="NBC4WCMH.us" tvg-name="..NBC 4 WASH DC HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",NBC 4 WASH DC HD
 http://38.143.137.105:8080/Greene/Greene/165765
-#EXTINF:-1 tvg-id="" tvg-name="..NBC 10 PHILADELPHIA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",..NBC 10 PHILADELPHIA HD
+#EXTINF:-1 tvg-id="" tvg-name="..NBC 10 PHILADELPHIA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",NBC 10 PHILADELPHIA HD
 http://38.143.137.105:8080/Greene/Greene/148152
-#EXTINF:-1 tvg-id="NBCKARE.us" tvg-name="..NBC 11 MINNEAPOLIS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_east.png" group-title="ENGLISH-USA",..NBC 11 MINNEAPOLIS HD
+#EXTINF:-1 tvg-id="NBCKARE.us" tvg-name="..NBC 11 MINNEAPOLIS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_east.png" group-title="ENGLISH-USA",NBC 11 MINNEAPOLIS HD
 http://38.143.137.105:8080/Greene/Greene/56470
-#EXTINF:-1 tvg-id="BandSports.br" tvg-name="..NBC 12 JACKSONVILLE FL HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_east.png" group-title="ENGLISH-USA",..NBC 12 JACKSONVILLE FL HD
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="..NBC 12 JACKSONVILLE FL HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_east.png" group-title="ENGLISH-USA",NBC 12 JACKSONVILLE FL HD
 http://38.143.137.105:8080/Greene/Greene/181478
-#EXTINF:-1 tvg-id="" tvg-name="..NBC 11 SAN FRANCISCO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",..NBC 11 SAN FRANCISCO HD
+#EXTINF:-1 tvg-id="" tvg-name="..NBC 11 SAN FRANCISCO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",NBC 11 SAN FRANCISCO HD
 http://38.143.137.105:8080/Greene/Greene/148153
-#EXTINF:-1 tvg-id="" tvg-name="..NBC 11 PITTSBURGH HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",..NBC 11 PITTSBURGH HD
+#EXTINF:-1 tvg-id="" tvg-name="..NBC 11 PITTSBURGH HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",NBC 11 PITTSBURGH HD
 http://38.143.137.105:8080/Greene/Greene/148154
-#EXTINF:-1 tvg-id="NBCWXIA.us" tvg-name="..NBC 11 ATLANTA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",..NBC 11 ATLANTA HD
+#EXTINF:-1 tvg-id="NBCWXIA.us" tvg-name="..NBC 11 ATLANTA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",NBC 11 ATLANTA HD
 http://38.143.137.105:8080/Greene/Greene/148155
-#EXTINF:-1 tvg-id="NBCKPNX.us" tvg-name="..NBC 12 PHOENIX HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",..NBC 12 PHOENIX HD
+#EXTINF:-1 tvg-id="NBCKPNX.us" tvg-name="..NBC 12 PHOENIX HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",NBC 12 PHOENIX HD
 http://38.143.137.105:8080/Greene/Greene/148156
-#EXTINF:-1 tvg-id="NBCWTHR.us" tvg-name="..NBC 13 INDIANAPOLIS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",..NBC 13 INDIANAPOLIS HD
+#EXTINF:-1 tvg-id="NBCWTHR.us" tvg-name="..NBC 13 INDIANAPOLIS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",NBC 13 INDIANAPOLIS HD
 http://38.143.137.105:8080/Greene/Greene/148157
-#EXTINF:-1 tvg-id="NBCKPRC.us" tvg-name="..NBC 2 HOUSTON HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",..NBC 2 HOUSTON HD
+#EXTINF:-1 tvg-id="NBCKPRC.us" tvg-name="..NBC 2 HOUSTON HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",NBC 2 HOUSTON HD
 http://38.143.137.105:8080/Greene/Greene/148158
-#EXTINF:-1 tvg-id="NBCKSNV.us" tvg-name="..NBC SPORTS WASHINGTON HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_sports_bay_area.png" group-title="ENGLISH-USA",..NBC SPORTS WASHINGTON HD
+#EXTINF:-1 tvg-id="NBCKSNV.us" tvg-name="..NBC SPORTS WASHINGTON HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_sports_bay_area.png" group-title="ENGLISH-USA",NBC SPORTS WASHINGTON HD
 http://38.143.137.105:8080/Greene/Greene/148161
-#EXTINF:-1 tvg-id="NBC41KSHB.us" tvg-name="..NBC 41 KANSAS CITY HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",..NBC 41 KANSAS CITY HD
+#EXTINF:-1 tvg-id="NBC41KSHB.us" tvg-name="..NBC 41 KANSAS CITY HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",NBC 41 KANSAS CITY HD
 http://38.143.137.105:8080/Greene/Greene/148162
-#EXTINF:-1 tvg-id="NBCWDIV.us" tvg-name="..NBC 4 DETROIT HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",..NBC 4 DETROIT HD
+#EXTINF:-1 tvg-id="NBCWDIV.us" tvg-name="..NBC 4 DETROIT HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",NBC 4 DETROIT HD
 http://38.143.137.105:8080/Greene/Greene/148163
-#EXTINF:-1 tvg-id="WGRZ.us" tvg-name="..NBC 2 BUFFALO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",..NBC 2 BUFFALO HD
+#EXTINF:-1 tvg-id="WGRZ.us" tvg-name="..NBC 2 BUFFALO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",NBC 2 BUFFALO HD
 http://38.143.137.105:8080/Greene/Greene/148164
-#EXTINF:-1 tvg-id="NBCWNBC.us" tvg-name="..NBC 4 NEW YORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",..NBC 4 NEW YORK HD
+#EXTINF:-1 tvg-id="NBCWNBC.us" tvg-name="..NBC 4 NEW YORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",NBC 4 NEW YORK HD
 http://38.143.137.105:8080/Greene/Greene/148165
-#EXTINF:-1 tvg-id="NBCKPRC.us" tvg-name="..NBC 47 HOUSTON HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",..NBC 47 HOUSTON HD
+#EXTINF:-1 tvg-id="NBCKPRC.us" tvg-name="..NBC 47 HOUSTON HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",NBC 47 HOUSTON HD
 http://38.143.137.105:8080/Greene/Greene/148166
-#EXTINF:-1 tvg-id="NBCKXAS.us" tvg-name="..NBC 5 DALLAS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_east.png" group-title="ENGLISH-USA",..NBC 5 DALLAS HD
+#EXTINF:-1 tvg-id="NBCKXAS.us" tvg-name="..NBC 5 DALLAS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_east.png" group-title="ENGLISH-USA",NBC 5 DALLAS HD
 http://38.143.137.105:8080/Greene/Greene/87520
-#EXTINF:-1 tvg-id="NBC5WMAQ.us" tvg-name="..NBC 5 CHICAGO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_east.png" group-title="ENGLISH-USA",..NBC 5 CHICAGO HD
+#EXTINF:-1 tvg-id="NBC5WMAQ.us" tvg-name="..NBC 5 CHICAGO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_east.png" group-title="ENGLISH-USA",NBC 5 CHICAGO HD
 http://38.143.137.105:8080/Greene/Greene/148167
-#EXTINF:-1 tvg-id="NBCKING.us" tvg-name="..NBC 5 SEATTLE HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_east.png" group-title="ENGLISH-USA",..NBC 5 SEATTLE HD
+#EXTINF:-1 tvg-id="NBCKING.us" tvg-name="..NBC 5 SEATTLE HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_east.png" group-title="ENGLISH-USA",NBC 5 SEATTLE HD
 http://38.143.137.105:8080/Greene/Greene/148168
-#EXTINF:-1 tvg-id="NBC6WTVJ.us" tvg-name="..NBC 6 KTAL HD SHREVEPORT" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",..NBC 6 KTAL HD SHREVEPORT
+#EXTINF:-1 tvg-id="NBC6WTVJ.us" tvg-name="..NBC 6 KTAL HD SHREVEPORT" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",NBC 6 KTAL HD SHREVEPORT
 http://38.143.137.105:8080/Greene/Greene/148169
-#EXTINF:-1 tvg-id="NBC6WTVJ.us" tvg-name="..NBC 6 MIAMI HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",..NBC 6 MIAMI HD
+#EXTINF:-1 tvg-id="NBC6WTVJ.us" tvg-name="..NBC 6 MIAMI HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",NBC 6 MIAMI HD
 http://38.143.137.105:8080/Greene/Greene/148170
-#EXTINF:-1 tvg-id="NBCKNSD.us" tvg-name="..NBC 7 SAN DIEGO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",..NBC 7 SAN DIEGO HD
+#EXTINF:-1 tvg-id="NBCKNSD.us" tvg-name="..NBC 7 SAN DIEGO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png" group-title="ENGLISH-USA",NBC 7 SAN DIEGO HD
 http://38.143.137.105:8080/Greene/Greene/148171
-#EXTINF:-1 tvg-id="ABCWABC.us" tvg-name="..ABC 7 NEW YORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",..ABC 7 NEW YORK HD
+#EXTINF:-1 tvg-id="ABCWABC.us" tvg-name="..ABC 7 NEW YORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",ABC 7 NEW YORK HD
 http://38.143.137.105:8080/Greene/Greene/7902
-#EXTINF:-1 tvg-id="ABC8WFAA.us" tvg-name="..ABC 8 DALLAS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",..ABC 8 DALLAS HD
+#EXTINF:-1 tvg-id="ABC8WFAA.us" tvg-name="..ABC 8 DALLAS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",ABC 8 DALLAS HD
 http://38.143.137.105:8080/Greene/Greene/87516
-#EXTINF:-1 tvg-id="ABC10WPLG.us" tvg-name="..ABC 10 MIAMI HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",..ABC 10 MIAMI HD
+#EXTINF:-1 tvg-id="ABC10WPLG.us" tvg-name="..ABC 10 MIAMI HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",ABC 10 MIAMI HD
 http://38.143.137.105:8080/Greene/Greene/148091
-#EXTINF:-1 tvg-id="ABCKGTV.us" tvg-name="..ABC 10 SAN DIEGO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",..ABC 10 SAN DIEGO HD
+#EXTINF:-1 tvg-id="ABCKGTV.us" tvg-name="..ABC 10 SAN DIEGO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",ABC 10 SAN DIEGO HD
 http://38.143.137.105:8080/Greene/Greene/148093
-#EXTINF:-1 tvg-id="ABCKSAT.us" tvg-name="..ABC 12 SAN ANTONIO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",..ABC 12 SAN ANTONIO HD
+#EXTINF:-1 tvg-id="ABCKSAT.us" tvg-name="..ABC 12 SAN ANTONIO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",ABC 12 SAN ANTONIO HD
 http://38.143.137.105:8080/Greene/Greene/148094
-#EXTINF:-1 tvg-id="ABC13KTRK.us" tvg-name="..ABC 13 HOUSTON HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",..ABC 13 HOUSTON HD
+#EXTINF:-1 tvg-id="ABC13KTRK.us" tvg-name="..ABC 13 HOUSTON HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",ABC 13 HOUSTON HD
 http://38.143.137.105:8080/Greene/Greene/148095
-#EXTINF:-1 tvg-id="" tvg-name="..ABC 13 LAS VEGAS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",..ABC 13 LAS VEGAS HD
+#EXTINF:-1 tvg-id="" tvg-name="..ABC 13 LAS VEGAS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",ABC 13 LAS VEGAS HD
 http://38.143.137.105:8080/Greene/Greene/148096
-#EXTINF:-1 tvg-id="ABCWSB.us" tvg-name="..ABC 2 ATLANTA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",..ABC 2 ATLANTA HD
+#EXTINF:-1 tvg-id="ABCWSB.us" tvg-name="..ABC 2 ATLANTA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",ABC 2 ATLANTA HD
 http://38.143.137.105:8080/Greene/Greene/148097
-#EXTINF:-1 tvg-id="" tvg-name="..ABC 3 HD SHREVEPORT" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",..ABC 3 HD SHREVEPORT
+#EXTINF:-1 tvg-id="" tvg-name="..ABC 3 HD SHREVEPORT" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",ABC 3 HD SHREVEPORT
 http://38.143.137.105:8080/Greene/Greene/431455
-#EXTINF:-1 tvg-id="ABCWEWS.us" tvg-name="..ABC 05 CLEVELAND HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",..ABC 05 CLEVELAND HD
+#EXTINF:-1 tvg-id="ABCWEWS.us" tvg-name="..ABC 05 CLEVELAND HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",ABC 05 CLEVELAND HD
 http://38.143.137.105:8080/Greene/Greene/148098
-#EXTINF:-1 tvg-id="ABCWPVI.us" tvg-name="..ABC 6 PHILADELPHIA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",..ABC 6 PHILADELPHIA HD
+#EXTINF:-1 tvg-id="ABCWPVI.us" tvg-name="..ABC 6 PHILADELPHIA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",ABC 6 PHILADELPHIA HD
 http://38.143.137.105:8080/Greene/Greene/148099
-#EXTINF:-1 tvg-id="ABC7WLS.us" tvg-name="..ABC 7 CHICAGO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",..ABC 7 CHICAGO HD
+#EXTINF:-1 tvg-id="ABC7WLS.us" tvg-name="..ABC 7 CHICAGO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",ABC 7 CHICAGO HD
 http://38.143.137.105:8080/Greene/Greene/148100
-#EXTINF:-1 tvg-id="ABC7WXYZ.us" tvg-name="..ABC 7 DETROIT HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",..ABC 7 DETROIT HD
+#EXTINF:-1 tvg-id="ABC7WXYZ.us" tvg-name="..ABC 7 DETROIT HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",ABC 7 DETROIT HD
 http://38.143.137.105:8080/Greene/Greene/148101
-#EXTINF:-1 tvg-id="ABC7KABCTV.us" tvg-name="..ABC 7 LOS ANGELES HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",..ABC 7 LOS ANGELES HD
+#EXTINF:-1 tvg-id="ABC7KABCTV.us" tvg-name="..ABC 7 LOS ANGELES HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",ABC 7 LOS ANGELES HD
 http://38.143.137.105:8080/Greene/Greene/148102
-#EXTINF:-1 tvg-id="ABCKGO.us" tvg-name="..ABC 7 SAN FRANCISCO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",..ABC 7 SAN FRANCISCO HD
+#EXTINF:-1 tvg-id="ABCKGO.us" tvg-name="..ABC 7 SAN FRANCISCO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",ABC 7 SAN FRANCISCO HD
 http://38.143.137.105:8080/Greene/Greene/148105
-#EXTINF:-1 tvg-id="ABCKOMO.us" tvg-name="..ABC 4 SEATTLE HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",..ABC 4 SEATTLE HD
+#EXTINF:-1 tvg-id="ABCKOMO.us" tvg-name="..ABC 4 SEATTLE HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",ABC 4 SEATTLE HD
 http://38.143.137.105:8080/Greene/Greene/148128
-#EXTINF:-1 tvg-id="ABCKSTP.us" tvg-name="..ABC 9 ORANDO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",..ABC 9 ORANDO HD
+#EXTINF:-1 tvg-id="ABCKSTP.us" tvg-name="..ABC 9 ORANDO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",ABC 9 ORANDO HD
 http://38.143.137.105:8080/Greene/Greene/148129
-#EXTINF:-1 tvg-id="ABCKSTP.us" tvg-name="..ABC 6 INDIANAPOLIS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",..ABC 6 INDIANAPOLIS HD
+#EXTINF:-1 tvg-id="ABCKSTP.us" tvg-name="..ABC 6 INDIANAPOLIS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",ABC 6 INDIANAPOLIS HD
 http://38.143.137.105:8080/Greene/Greene/148130
-#EXTINF:-1 tvg-id="ABCWSYX.us" tvg-name="..ABC 6 COLUMBUS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",..ABC 6 COLUMBUS HD
+#EXTINF:-1 tvg-id="ABCWSYX.us" tvg-name="..ABC 6 COLUMBUS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",ABC 6 COLUMBUS HD
 http://38.143.137.105:8080/Greene/Greene/148131
-#EXTINF:-1 tvg-id="ABCKTNV.us" tvg-name="..ABC 15 PHOENIX HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",..ABC 15 PHOENIX HD
+#EXTINF:-1 tvg-id="ABCKTNV.us" tvg-name="..ABC 15 PHOENIX HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",ABC 15 PHOENIX HD
 http://38.143.137.105:8080/Greene/Greene/150387
-#EXTINF:-1 tvg-id="ABCWJLA.us" tvg-name="..ABC 7 WASH D.C HD (WJLA)" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",..ABC 7 WASH D.C HD (WJLA)
+#EXTINF:-1 tvg-id="ABCWJLA.us" tvg-name="..ABC 7 WASH D.C HD (WJLA)" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",ABC 7 WASH D.C HD (WJLA)
 http://38.143.137.105:8080/Greene/Greene/165767
-#EXTINF:-1 tvg-id="" tvg-name="..ABC 5 (KSTP) Minneapolis HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",..ABC 5 (KSTP) Minneapolis HD
+#EXTINF:-1 tvg-id="" tvg-name="..ABC 5 (KSTP) Minneapolis HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png" group-title="ENGLISH-USA",ABC 5 (KSTP) Minneapolis HD
 http://38.143.137.105:8080/Greene/Greene/431453
 #EXTINF:-1 tvg-id="" tvg-name="CORONAVIRUS PANDEMIC Live Update" tvg-logo="" group-title="SPORTS",CORONAVIRUS PANDEMIC Live Update
 http://38.143.137.105:8080/Greene/Greene/322446
-#EXTINF:-1 tvg-id="UFCTV.us" tvg-name="...UFC 24/7" tvg-logo="http://38.143.137.20/logo/prestige/United-States/ufc-tv-rossiya-us-ru.png" group-title="SPORTS",...UFC 24/7
+#EXTINF:-1 tvg-id="UFCTV.us" tvg-name="...UFC 24/7" tvg-logo="http://38.143.137.20/logo/prestige/United-States/ufc-tv-rossiya-us-ru.png" group-title="SPORTS",.UFC 24/7
 http://38.143.137.105:8080/Greene/Greene/57427
-#EXTINF:-1 tvg-id="SpectrumSportsNet.us" tvg-name="...SPECTRUM SPORTSNET HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/spectrum-sportsnet-us.png" group-title="SPORTS",...SPECTRUM SPORTSNET HD
+#EXTINF:-1 tvg-id="SpectrumSportsNet.us" tvg-name="...SPECTRUM SPORTSNET HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/spectrum-sportsnet-us.png" group-title="SPORTS",.SPECTRUM SPORTSNET HD
 http://38.143.137.105:8080/Greene/Greene/404429
-#EXTINF:-1 tvg-id="" tvg-name="...SPECTRUM SPORTSNET LA LAKERS" tvg-logo="http://38.143.137.20/logo/prestige/Canada/fanatiz.png" group-title="SPORTS",...SPECTRUM SPORTSNET LA LAKERS
+#EXTINF:-1 tvg-id="" tvg-name="...SPECTRUM SPORTSNET LA LAKERS" tvg-logo="http://38.143.137.20/logo/prestige/Canada/fanatiz.png" group-title="SPORTS",.SPECTRUM SPORTSNET LA LAKERS
 http://38.143.137.105:8080/Greene/Greene/413616
-#EXTINF:-1 tvg-id="" tvg-name="...SPECTRUM SPORTSNET LA DODGERS" tvg-logo="http://38.143.137.20/logo/prestige/Canada/fanatiz.png" group-title="SPORTS",...SPECTRUM SPORTSNET LA DODGERS
+#EXTINF:-1 tvg-id="" tvg-name="...SPECTRUM SPORTSNET LA DODGERS" tvg-logo="http://38.143.137.20/logo/prestige/Canada/fanatiz.png" group-title="SPORTS",.SPECTRUM SPORTSNET LA DODGERS
 http://38.143.137.105:8080/Greene/Greene/413617
-#EXTINF:-1 tvg-id="ATTSportsNetPittsburgh.us" tvg-name="...AT&T SPORTSNET PITTSBURGH" tvg-logo="http://38.143.137.20/logo/prestige/United-States/att-sportsnet-us.png" group-title="SPORTS",...AT&T SPORTSNET PITTSBURGH
+#EXTINF:-1 tvg-id="ATTSportsNetPittsburgh.us" tvg-name="...AT&T SPORTSNET PITTSBURGH" tvg-logo="http://38.143.137.20/logo/prestige/United-States/att-sportsnet-us.png" group-title="SPORTS",.AT&T SPORTSNET PITTSBURGH
 http://38.143.137.105:8080/Greene/Greene/319613
-#EXTINF:-1 tvg-id="ATTSportsNetHouston.us" tvg-name="...AT&T SPORTSNET SOUTHWEST" tvg-logo="http://38.143.137.20/logo/prestige/United-States/att-sportsnet-us.png" group-title="SPORTS",...AT&T SPORTSNET SOUTHWEST
+#EXTINF:-1 tvg-id="ATTSportsNetHouston.us" tvg-name="...AT&T SPORTSNET SOUTHWEST" tvg-logo="http://38.143.137.20/logo/prestige/United-States/att-sportsnet-us.png" group-title="SPORTS",.AT&T SPORTSNET SOUTHWEST
 http://38.143.137.105:8080/Greene/Greene/319614
-#EXTINF:-1 tvg-id="ROOTD.us" tvg-name="...AT&T SPORTSNET ROCKY MOUNTAIN" tvg-logo="http://38.143.137.20/logo/prestige/United-States/att-sportsnet-us.png" group-title="SPORTS",...AT&T SPORTSNET ROCKY MOUNTAIN
+#EXTINF:-1 tvg-id="ROOTD.us" tvg-name="...AT&T SPORTSNET ROCKY MOUNTAIN" tvg-logo="http://38.143.137.20/logo/prestige/United-States/att-sportsnet-us.png" group-title="SPORTS",.AT&T SPORTSNET ROCKY MOUNTAIN
 http://38.143.137.105:8080/Greene/Greene/319616
-#EXTINF:-1 tvg-id="MadisonSquareGarden.us" tvg-name="...MSG NETWORKS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="SPORTS",...MSG NETWORKS HD
+#EXTINF:-1 tvg-id="MadisonSquareGarden.us" tvg-name="...MSG NETWORKS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="SPORTS",.MSG NETWORKS HD
 http://38.143.137.105:8080/Greene/Greene/7964
-#EXTINF:-1 tvg-id="NowSports1En.hk" tvg-name="...NOW SPORTS 1 HD HK" tvg-logo="http://38.143.137.20/logo/prestige/Hong-Kong/now_hk_tv.png" group-title="SPORTS",...NOW SPORTS 1 HD HK
+#EXTINF:-1 tvg-id="NowSports1En.hk" tvg-name="...NOW SPORTS 1 HD HK" tvg-logo="http://38.143.137.20/logo/prestige/Hong-Kong/now_hk_tv.png" group-title="SPORTS",.NOW SPORTS 1 HD HK
 http://38.143.137.105:8080/Greene/Greene/30238
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="...ESPN 1 HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_242.png" group-title="SPORTS",...ESPN 1 HD
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="...ESPN 1 HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_242.png" group-title="SPORTS",.ESPN 1 HD
 http://38.143.137.105:8080/Greene/Greene/7963
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="...ESPN 2 HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/espn_2.png" group-title="SPORTS",...ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="...ESPN 2 HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/espn_2.png" group-title="SPORTS",.ESPN 2 HD
 http://38.143.137.105:8080/Greene/Greene/7896
-#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="...ESPNU HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_242.png" group-title="SPORTS",...ESPNU HD
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="...ESPNU HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_242.png" group-title="SPORTS",.ESPNU HD
 http://38.143.137.105:8080/Greene/Greene/7895
-#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="...ESPN NEWS HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_242.png" group-title="SPORTS",...ESPN NEWS HD
+#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="...ESPN NEWS HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_242.png" group-title="SPORTS",.ESPN NEWS HD
 http://38.143.137.105:8080/Greene/Greene/7898
-#EXTINF:-1 tvg-id="ESPNClassic.us" tvg-name="...ESPN CLASSIC HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/espn_classic_us.png" group-title="SPORTS",...ESPN CLASSIC HD
+#EXTINF:-1 tvg-id="ESPNClassic.us" tvg-name="...ESPN CLASSIC HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/espn_classic_us.png" group-title="SPORTS",.ESPN CLASSIC HD
 http://38.143.137.105:8080/Greene/Greene/31017
-#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="...ESPN SEC NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/espn_sec_network_us.png" group-title="SPORTS",...ESPN SEC NETWORK HD
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="...ESPN SEC NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/espn_sec_network_us.png" group-title="SPORTS",.ESPN SEC NETWORK HD
 http://38.143.137.105:8080/Greene/Greene/60414
-#EXTINF:-1 tvg-id="beINSportsXtra.us" tvg-name="...beIN XTRA HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/bein-sports-qa.png" group-title="SPORTS",...beIN XTRA HD
+#EXTINF:-1 tvg-id="beINSportsXtra.us" tvg-name="...beIN XTRA HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/bein-sports-qa.png" group-title="SPORTS",.beIN XTRA HD
 http://38.143.137.105:8080/Greene/Greene/411411
-#EXTINF:-1 tvg-id="beINSports.us" tvg-name="...beIN SPORTS HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/032015/bein_sport_0.png" group-title="SPORTS",...beIN SPORTS HD
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="...beIN SPORTS HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/032015/bein_sport_0.png" group-title="SPORTS",.beIN SPORTS HD
 http://38.143.137.105:8080/Greene/Greene/7866
-#EXTINF:-1 tvg-id="NBCGoldRugby.us" tvg-name="...ZW SUPERSPORTS RUGBY HD AF" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png" group-title="SPORTS",...ZW SUPERSPORTS RUGBY HD AF
+#EXTINF:-1 tvg-id="NBCGoldRugby.us" tvg-name="...ZW SUPERSPORTS RUGBY HD AF" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png" group-title="SPORTS",.ZW SUPERSPORTS RUGBY HD AF
 http://38.143.137.105:8080/Greene/Greene/395599
-#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="...SUPERSPORTS GOLF HD ZA" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png" group-title="SPORTS",...SUPERSPORTS GOLF HD ZA
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="...SUPERSPORTS GOLF HD ZA" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png" group-title="SPORTS",.SUPERSPORTS GOLF HD ZA
 http://38.143.137.105:8080/Greene/Greene/269696
-#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="...ACC NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/acc-network-us.png" group-title="SPORTS",...ACC NETWORK HD
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="...ACC NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/acc-network-us.png" group-title="SPORTS",.ACC NETWORK HD
 http://38.143.137.105:8080/Greene/Greene/186909
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="...TENNIS CHANNEL HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/tennis_channel.png" group-title="SPORTS",...TENNIS CHANNEL HD
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="...TENNIS CHANNEL HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/tennis_channel.png" group-title="SPORTS",.TENNIS CHANNEL HD
 http://38.143.137.105:8080/Greene/Greene/7988
-#EXTINF:-1 tvg-id="WWE.us" tvg-name="...WWE NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/world_wrestling_entertainment.png" group-title="SPORTS",...WWE NETWORK HD
+#EXTINF:-1 tvg-id="WWE.us" tvg-name="...WWE NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/world_wrestling_entertainment.png" group-title="SPORTS",.WWE NETWORK HD
 http://38.143.137.105:8080/Greene/Greene/325241
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="...UNBEATEN HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png" group-title="SPORTS",...UNBEATEN HD
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="...UNBEATEN HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png" group-title="SPORTS",.UNBEATEN HD
 http://38.143.137.105:8080/Greene/Greene/311866
-#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="...BTN HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/big_ten_network.png" group-title="SPORTS",...BTN HD
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="...BTN HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/big_ten_network.png" group-title="SPORTS",.BTN HD
 http://38.143.137.105:8080/Greene/Greene/5137
-#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="...NBC SPORTS NETWORK HD" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/IsH/IsH_large.png" group-title="SPORTS",...NBC SPORTS NETWORK HD
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="...NBC SPORTS NETWORK HD" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/IsH/IsH_large.png" group-title="SPORTS",.NBC SPORTS NETWORK HD
 http://38.143.137.105:8080/Greene/Greene/7995
-#EXTINF:-1 tvg-id="BTSportX1.uk" tvg-name="...BIG TEN NETWORK HD" tvg-logo="http://epg4you.com/logos/btsportextra1.png" group-title="SPORTS",...BIG TEN NETWORK HD
+#EXTINF:-1 tvg-id="BTSportX1.uk" tvg-name="...BIG TEN NETWORK HD" tvg-logo="http://epg4you.com/logos/btsportextra1.png" group-title="SPORTS",.BIG TEN NETWORK HD
 http://38.143.137.105:8080/Greene/Greene/15531
-#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="...CBS SPORTS NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs-sports-network-us.png" group-title="SPORTS",...CBS SPORTS NETWORK HD
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="...CBS SPORTS NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs-sports-network-us.png" group-title="SPORTS",.CBS SPORTS NETWORK HD
 http://38.143.137.105:8080/Greene/Greene/7992
-#EXTINF:-1 tvg-id="YesTV.ca" tvg-name="...YES NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/yes_network_us.png" group-title="SPORTS",...YES NETWORK HD
+#EXTINF:-1 tvg-id="YesTV.ca" tvg-name="...YES NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/yes_network_us.png" group-title="SPORTS",.YES NETWORK HD
 http://38.143.137.105:8080/Greene/Greene/4945
-#EXTINF:-1 tvg-id="" tvg-name="...Fite TV 24/7 HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/fite.png" group-title="SPORTS",...Fite TV 24/7 HD
+#EXTINF:-1 tvg-id="" tvg-name="...Fite TV 24/7 HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/fite.png" group-title="SPORTS",.Fite TV 24/7 HD
 http://38.143.137.105:8080/Greene/Greene/411412
-#EXTINF:-1 tvg-id="TVG.us" tvg-name="...TVG 1 NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/tvg_us.png" group-title="SPORTS",...TVG 1 NETWORK HD
+#EXTINF:-1 tvg-id="TVG.us" tvg-name="...TVG 1 NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/tvg_us.png" group-title="SPORTS",.TVG 1 NETWORK HD
 http://38.143.137.105:8080/Greene/Greene/266090
-#EXTINF:-1 tvg-id="TVG2.us" tvg-name="...TVG 2 NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/tvg_us.png" group-title="SPORTS",...TVG 2 NETWORK HD
+#EXTINF:-1 tvg-id="TVG2.us" tvg-name="...TVG 2 NETWORK HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/tvg_us.png" group-title="SPORTS",.TVG 2 NETWORK HD
 http://38.143.137.105:8080/Greene/Greene/266091
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="*NBA15: TBS (05.16-9:00PM ET)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",*NBA15: TBS (05.16-9:00PM ET)
 http://38.143.137.105:8080/Greene/Greene/57983
-#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="...NHL NETWORK" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/nhl_network_2012.png" group-title="SPORTS",...NHL NETWORK
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="...NHL NETWORK" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/nhl_network_2012.png" group-title="SPORTS",.NHL NETWORK
 http://38.143.137.105:8080/Greene/Greene/52971
 #EXTINF:-1 tvg-id="NHLCenterIce1.us" tvg-name="*NHL01 Pacific @ Metropolitan (02.05-3:00PM ET)" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nhl_center_ice_us.png" group-title="SPORTS",*NHL01 Pacific @ Metropolitan (02.05-3:00PM ET)
 http://38.143.137.105:8080/Greene/Greene/7956
@@ -519,9 +519,9 @@ http://38.143.137.105:8080/Greene/Greene/59140
 http://38.143.137.105:8080/Greene/Greene/59141
 #EXTINF:-1 tvg-id="NHLCenterIce769.us" tvg-name="*NHL15 TBS (11.24-10:00PM ET)" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nhl_center_ice_us.png" group-title="SPORTS",*NHL15 TBS (11.24-10:00PM ET)
 http://38.143.137.105:8080/Greene/Greene/59142
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="...NFL NETWORK HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",...NFL NETWORK HD
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="...NFL NETWORK HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",.NFL NETWORK HD
 http://38.143.137.105:8080/Greene/Greene/7961
-#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="...NFL RED ZONE (WATCH MULTIPLE GAMES)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",...NFL RED ZONE (WATCH MULTIPLE GAMES)
+#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="...NFL RED ZONE (WATCH MULTIPLE GAMES)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",.NFL RED ZONE (WATCH MULTIPLE GAMES)
 http://38.143.137.105:8080/Greene/Greene/57984
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="*NFL01: TBS (01.30-3:00PM)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",*NFL01: TBS (01.30-3:00PM)
 http://38.143.137.105:8080/Greene/Greene/7928
@@ -553,7 +553,7 @@ http://38.143.137.105:8080/Greene/Greene/57981
 http://38.143.137.105:8080/Greene/Greene/57982
 #EXTINF:-1 tvg-id="NFLSundayTicket717.us" tvg-name="*NFL15: TBS (01.02-8:20PM)" tvg-logo="http://glmtv.pw/logo/prestige/United-States/nfl_network_us.png" group-title="SPORTS",*NFL15: TBS (01.02-8:20PM)
 http://38.143.137.105:8080/Greene/Greene/7925
-#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="...MLB NETWORK HD" tvg-logo="http://www.capsinfo.com/images/mlb.png" group-title="SPORTS",...MLB NETWORK HD
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="...MLB NETWORK HD" tvg-logo="http://www.capsinfo.com/images/mlb.png" group-title="SPORTS",.MLB NETWORK HD
 http://38.143.137.105:8080/Greene/Greene/7873
 #EXTINF:-1 tvg-id="MLBExtraInnings719.us" tvg-name="*MLB01: TBS (11.02-8:09PM ET)" tvg-logo="http://www.capsinfo.com/images/mlb.png" group-title="SPORTS",*MLB01: TBS (11.02-8:09PM ET)
 http://38.143.137.105:8080/Greene/Greene/56452
